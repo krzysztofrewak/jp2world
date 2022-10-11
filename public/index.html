@@ -1,0 +1,134 @@
+<html lang="pl">
+  <head>
+    <title>It's a JP2 world</title>
+    <meta charset="utf-8">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js" integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s=" crossorigin=""></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .leaflet-tile {
+            filter: grayscale(1);
+        }
+    </style>
+  </head>
+
+  <body>
+    <div class="relative w-full h-full" id="application">
+      <div class="absolute z-20 p-4 top-0 right-0">
+        <div @click="toggleSlideover()" class="cursor-pointer px-5 py-2 text-sm border text-gray-500 bg-gray-50 hover:bg-gray-100 rounded border-gray-300">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+          </svg>
+        </div>
+      </div>
+      <div id="map" class="flex z-10 h-screen w-screen justify-center items-center">
+        <div role="status">
+          <svg aria-hidden="true" class="mr-2 w-8 h-8 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600" viewBox="0 0 100 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M100 50.5908C100 78.2051 77.6142 100.591 50 100.591C22.3858 100.591 0 78.2051 0 50.5908C0 22.9766 22.3858 0.59082 50 0.59082C77.6142 0.59082 100 22.9766 100 50.5908ZM9.08144 50.5908C9.08144 73.1895 27.4013 91.5094 50 91.5094C72.5987 91.5094 90.9186 73.1895 90.9186 50.5908C90.9186 27.9921 72.5987 9.67226 50 9.67226C27.4013 9.67226 9.08144 27.9921 9.08144 50.5908Z" fill="currentColor"/>
+            <path d="M93.9676 39.0409C96.393 38.4038 97.8624 35.9116 97.0079 33.5539C95.2932 28.8227 92.871 24.3692 89.8167 20.348C85.8452 15.1192 80.8826 10.7238 75.2124 7.41289C69.5422 4.10194 63.2754 1.94025 56.7698 1.05124C51.7666 0.367541 46.6976 0.446843 41.7345 1.27873C39.2613 1.69328 37.813 4.19778 38.4501 6.62326C39.0873 9.04874 41.5694 10.4717 44.0505 10.1071C47.8511 9.54855 51.7191 9.52689 55.5402 10.0491C60.8642 10.7766 65.9928 12.5457 70.6331 15.2552C75.2735 17.9648 79.3347 21.5619 82.5849 25.841C84.9175 28.9121 86.7997 32.2913 88.1811 35.8758C89.083 38.2158 91.5421 39.6781 93.9676 39.0409Z" fill="currentFill"/>
+          </svg>
+          <span class="sr-only">Loading...</span>
+        </div>
+      </div>
+      <div id="slideover-container" class="w-full z-20 h-full fixed inset-0 invisible">
+        <div @click="toggleSlideover()" id="slideover-bg" class="w-full h-full duration-500 ease-out transition-all inset-0 absolute bg-gray-900 opacity-0"></div>
+        <div @click="toggleSlideover()" id="slideover" class="w-96 bg-white h-full absolute right-0 duration-300 ease-out transition-all translate-x-full">
+          <div class="absolute cursor-pointer text-gray-600 top-0 w-8 h-8 flex items-center justify-center right-0 mt-5 mr-5">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+          </div>
+          <div class="p-4 mt-2">
+            <h2 class="text-lg text-gray-700">Statystyki</h2>
+            <ul role="list" class="mt-6 grid grid-cols-1 gap-5">
+              <li v-for="statistic in statistics" :key="statistic.name" class="col-span-1 flex rounded-md shadow-sm">
+                <div class="flex-shrink-0 flex items-center justify-center w-16 bg-gray-400 text-white text-sm font-medium rounded-l-md" :style="'background: ' + statistic.background">{{ statistic.counter }}</div>
+                <div class="flex flex-1 items-center justify-between truncate rounded-r-md border-t border-r border-b border-gray-200 bg-white">
+                  <div class="flex-1 truncate px-4 py-2 text-sm">
+                    <span class="font-medium text-gray-900 hover:text-gray-600">{{ statistic.name }}</span>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+    new Vue({
+      el: '#application',
+      data () {
+        return {
+          map: null,
+          places: [],
+        }
+      },
+      computed: {
+        statistics() {
+          return [
+            { name: 'szkoły', counter: this.places.filter(p => p.type === "school").length, background: this.getMarkerColor('school') },
+            { name: 'ulice', counter: this.places.filter(p => p.type === "street").length, background: this.getMarkerColor('street') },
+            { name: 'pomniki', counter: this.places.filter(p => p.type === "statue").length, background: this.getMarkerColor('statue') },
+            { name: 'kościoły', counter: this.places.filter(p => p.type === "church").length, background: this.getMarkerColor('church') },
+            { name: 'inne', counter: this.places.filter(p => p.type === "other").length, background: this.getMarkerColor('other') },
+            { name: 'razem', counter: this.places.length, background: '' },
+          ]
+        }
+      },
+      mounted () {
+        fetch('./assets/places.json').then(response => response.json()).then(data => {
+          this.places = data
+          this.renderMap()
+        })
+      },
+      methods: {
+        renderMap () {
+          L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+          }).addTo(map)
+
+          for (const pin of this.places) {
+            if (pin.coordinates) {
+              L.circleMarker(pin.coordinates,
+                { color: this.getMarkerColor(pin.type), radius: 6, fillOpacity: 1, fillColor: 'White' }).
+                addTo(map).
+                bindTooltip(pin.name + ', ' + pin.city, { direction: 'right', offset: [16, 0] })
+            }
+          }
+        },
+        getMarkerColor (type) {
+          return {
+            'church': '#D68FFE',
+            'school': '#6DA7CE',
+            'statue': '#32CD32',
+            'street': '#FF5959',
+            'other': '#E3AC54',
+          }[type]
+        },
+        toggleSlideover () {
+          document.getElementById('slideover-container').classList.toggle('invisible')
+          document.getElementById('slideover-bg').classList.toggle('opacity-0')
+          document.getElementById('slideover-bg').classList.toggle('opacity-50')
+          document.getElementById('slideover').classList.toggle('translate-x-full')
+        },
+      },
+    })
+
+    const map = L.map('map').setView([52.088611, 19.407222], 7)
+  </script>
+</html>

@@ -1,0 +1,35 @@
+name: Build and deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Test resources database
+        run: python3 test.py
+
+      - name: Install and build backend
+        run: python3 build.py
+
+      - name: Handle 404 for GitHub Pages
+        run: cp index.html 404.html
+        working-directory: public
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          BRANCH: public
+          FOLDER: public
+          CLEAN: true
