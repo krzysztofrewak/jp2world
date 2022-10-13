@@ -6,13 +6,15 @@ Celem tej aplikacji jest zmapowanie wszystkich - o ile to w ogóle możliwe - mi
 ### Jak dodać lub zaktualizować pinezki?
 Mapa budowana jest z mniejszych plików CSV w katalogu `resources`. Dla porządku są one posegregowane typami oraz w niektórych przypadkach województwami.
 
-Format plików to oddzielone średnikami nazwa pinezki, miasto (lub miasto i państwo dla miejsc zagranicznych), wysokość i szerokość geograficzna:
+Format plików to oddzielone średnikami nazwa pinezki, miasto (lub miasto i państwo dla miejsc zagranicznych), długość i szerokość geograficzna:
 ```csv
-nazwa;miasto;wysokość geograficzna;szerokość geograficzna
+name;location;longitude;latitude
+# nazwa;miasto;długość geograficzna;szerokość geograficzna
 ```
 
 Przykładowo:
 ```csv
+name;location;longitude;latitude
 Półwysep Jana Pawła II;Antarktyda;-62.528611;-60.766111
 katamaran MV Saint John Paul II;gdzieś pomiędzy Maltą a Sycylią;36.54392761229021;13.454621290303507
 Molo w Sopocie im. Jana Pawła II;Sopot;54.447778;18.576111
