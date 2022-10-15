@@ -30,9 +30,9 @@ for category in categories:
             i = 0
             for line in csv.reader(f, delimiter=";"):
                 if not i == 0:
-                    assert len(line) == 4, "Line {} should contain 4 elements in {}".format(i, file)
-                    assert is_proper_coordinate(line[2]), "Line {} of {} latitude should be a proper coordinate".format(i, file)
-                    assert is_proper_coordinate(line[3]), "Line {} of {} longitude should be a proper coordinate".format(i, file)
+                    assert len(line) == 4, "Line {} should contain 4 elements in {}".format(i + 1, file)
+                    assert is_proper_coordinate(line[2]), "Line {} of {} latitude should be a proper coordinate".format(i + 1, file)
+                    assert is_proper_coordinate(line[3]), "Line {} of {} longitude should be a proper coordinate".format(i + 1, file)
                 else:
                     assert ";".join(line) == "name;location;longitude;latitude", "First line in {} file should be a header row".format(file)
 
