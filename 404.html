@@ -29,7 +29,7 @@
       <div class="absolute z-20 p-4 top-0 right-0">
         <div @click="toggleSlideover()" class="cursor-pointer px-5 py-2 text-sm border text-gray-500 bg-gray-50 hover:bg-gray-100 rounded border-gray-300">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"/>
           </svg>
         </div>
       </div>
@@ -79,16 +79,36 @@
         }
       },
       computed: {
-        statistics() {
+        statistics () {
           return [
-            { name: 'szkoły', counter: this.places.filter(p => p.type === "school").length, background: this.getMarkerColor('school') },
-            { name: 'ulice', counter: this.places.filter(p => p.type === "street").length, background: this.getMarkerColor('street') },
-            { name: 'pomniki', counter: this.places.filter(p => p.type === "statue").length, background: this.getMarkerColor('statue') },
-            { name: 'kościoły', counter: this.places.filter(p => p.type === "church").length, background: this.getMarkerColor('church') },
-            { name: 'inne', counter: this.places.filter(p => p.type === "other").length, background: this.getMarkerColor('other') },
+            {
+              name: 'szkoły',
+              counter: this.places.filter(p => p.type === 'school').length,
+              background: this.getMarkerColor('school'),
+            },
+            {
+              name: 'ulice',
+              counter: this.places.filter(p => p.type === 'street').length,
+              background: this.getMarkerColor('street'),
+            },
+            {
+              name: 'pomniki',
+              counter: this.places.filter(p => p.type === 'statue').length,
+              background: this.getMarkerColor('statue'),
+            },
+            {
+              name: 'kościoły',
+              counter: this.places.filter(p => p.type === 'church').length,
+              background: this.getMarkerColor('church'),
+            },
+            {
+              name: 'inne',
+              counter: this.places.filter(p => p.type === 'other').length,
+              background: this.getMarkerColor('other'),
+            },
             { name: 'razem', counter: this.places.length, background: '' },
           ]
-        }
+        },
       },
       mounted () {
         fetch('./assets/places.json').then(response => response.json()).then(data => {
@@ -107,6 +127,7 @@
               L.circleMarker(pin.coordinates,
                 { color: this.getMarkerColor(pin.type), radius: 6, fillOpacity: 1, fillColor: 'White' }).
                 addTo(map).
+                on('click', () => window.open('https://www.google.com/maps/search/' + pin.coordinates, '_blank').focus()).
                 bindTooltip(pin.name + ', ' + pin.city, { direction: 'right', offset: [16, 0] })
             }
           }
