@@ -62,6 +62,7 @@ categories = {
     "other": [
        "./resources/airports.csv",
        "./resources/hospitals.csv",
+       "./resources/ngos.csv",
        "./resources/others.csv",
     ],
 }
