@@ -1,17 +1,17 @@
-name;location;longitude;latitude
-Szpital Powiatowy im. Jana Pawła II;Bartoszyce;54.25872543003074;20.79145713888293
-Szpital Wojewódzki im. Jana Pawła II;Bełchatów;51.37492798205141;19.35060794628651
-Beskidzkie Centrum Onkologii im. Jana Pawła II;Bielsko-Biała;49.82280546926489;19.034945685644214
-Szpital Miejski im. Jana Pawła II;Głogów;51.65543687195476;16.07706201093966
-Samodzielny Publiczny Specjalistyczny Szpital Zachodni im. św. Jana Pawła II;Grodzisk Mazowiecki;52.09525776835727;20.61576233608506
-Szpital im. Jana Pawła II;Gryfino;53.25465166827735;14.489834608013888
-Górnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II;Katowice;50.22381521944414;18.951441848005757
-Szpital Geriatryczny im. Jana Pawła II;Katowice;50.266107938040875;19.092100508921234
-Krakowski Szpital Specjalistyczny im. Jana Pawła II;Kraków;50.08969434468949;19.93677195367915
-Podhalański Szpital Specjalistyczny im. Jana Pawła II;Nowy Targ;49.49008346734455;20.02783329171868
-Centrum Pediatrii im. Jana Pawła II w Sosnowcu;Sosnowiec;50.273528359991815;19.198408739737577
-Szpital Powiatowy im. Jana Pawła II;Wadowice;49.88029577647689;19.491889170832497
-Szpital Powiatowy im. Jana Pawła II;Trzcianka;53.03971304335876;16.463342826086205
-Archidiecezjalny Dom Hospicyjny im. Jana Pawła II;Katowice;50.23819773761022;19.00120379648574
-Hospicjum im. Jana Pawła II;Żory;50.02845627334537;18.688207805451793
-Pope John Paul 2 Hospital and Medical Center;Manila, Filipiny;14.443296124524498;120.99634648644063
+name,location,longitude,latitude
+Szpital Powiatowy im. Jana Pawła II,Bartoszyce,54.25872543003074,20.79145713888293
+Szpital Wojewódzki im. Jana Pawła II,Bełchatów,51.37492798205141,19.35060794628651
+Beskidzkie Centrum Onkologii im. Jana Pawła II,Bielsko-Biała,49.82280546926489,19.034945685644214
+Szpital Miejski im. Jana Pawła II,Głogów,51.65543687195476,16.07706201093966
+Samodzielny Publiczny Specjalistyczny Szpital Zachodni im. św. Jana Pawła II,Grodzisk Mazowiecki,52.09525776835727,20.61576233608506
+Szpital im. Jana Pawła II,Gryfino,53.25465166827735,14.489834608013888
+Górnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II,Katowice,50.22381521944414,18.951441848005757
+Szpital Geriatryczny im. Jana Pawła II,Katowice,50.266107938040875,19.092100508921234
+Krakowski Szpital Specjalistyczny im. Jana Pawła II,Kraków,50.08969434468949,19.93677195367915
+Podhalański Szpital Specjalistyczny im. Jana Pawła II,Nowy Targ,49.49008346734455,20.02783329171868
+Centrum Pediatrii im. Jana Pawła II w Sosnowcu,Sosnowiec,50.273528359991815,19.198408739737577
+Szpital Powiatowy im. Jana Pawła II,Wadowice,49.88029577647689,19.491889170832497
+Szpital Powiatowy im. Jana Pawła II,Trzcianka,53.03971304335876,16.463342826086205
+Archidiecezjalny Dom Hospicyjny im. Jana Pawła II,Katowice,50.23819773761022,19.00120379648574
+Hospicjum im. Jana Pawła II,Żory,50.02845627334537,18.688207805451793
+Pope John Paul 2 Hospital and Medical Center,"Manila, Filipiny",14.443296124524498,120.99634648644063

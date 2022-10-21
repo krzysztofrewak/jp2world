@@ -1,16 +1,16 @@
-name;location;longitude;latitude
-Pomnik Papieża Jana Pawła II;Otyń;51.84923;15.712
-Pomnik Jana Pawła II;Przyborów;51.79982;15.7686
-Pomnik Jana Pawła II;Bytom Odrzański;51.72984;15.82757
-Pomnik Jana Pawła II;Szprotawa;51.56509;15.5368
-Pomnik Jana Pawła II;Słońsk;52.57025;14.80446
-Pomnik Jana Pawła II;Witnica;52.67289;14.90007
-Pomnik Jana Pawła II;Krosno Odrzańskie;52.0616;15.07823
-Fig. papieża Jana Pawła II;Torzym;52.3144;15.08434
-Pomnik Jana Pawła II;Nowa Sól;51.80550849241898;15.716733634471893
-Pomnik papieża św. Jana Pawła II;Dzietrzychowice;51.66419498030378;15.355539075851514
-Pomnik Jana Pawła II (d. pomnik wojenny Niedoradz);Niedoradz;51.87344072680786;15.669926404953005
-Pomnik Jana Pawła II;Żagań;51.6232059378013;15.30024363863774
-Pomnik św. Jana Pawła II;Bożnów;51.61188751037221;15.36040484905243
-Pomnik Jana Pawła II;Łęknica;51.54430669494107;14.742107391357422
-Pomnik Jana Pawła II;Różanki;52.794747584973;15.324999690055849
+name,location,longitude,latitude
+Pomnik Papieża Jana Pawła II,Otyń,51.84923,15.712
+Pomnik Jana Pawła II,Przyborów,51.79982,15.7686
+Pomnik Jana Pawła II,Bytom Odrzański,51.72984,15.82757
+Pomnik Jana Pawła II,Szprotawa,51.56509,15.5368
+Pomnik Jana Pawła II,Słońsk,52.57025,14.80446
+Pomnik Jana Pawła II,Witnica,52.67289,14.90007
+Pomnik Jana Pawła II,Krosno Odrzańskie,52.0616,15.07823
+Fig. papieża Jana Pawła II,Torzym,52.3144,15.08434
+Pomnik Jana Pawła II,Nowa Sól,51.80550849241898,15.716733634471893
+Pomnik papieża św. Jana Pawła II,Dzietrzychowice,51.66419498030378,15.355539075851514
+Pomnik Jana Pawła II (d. pomnik wojenny Niedoradz),Niedoradz,51.87344072680786,15.669926404953005
+Pomnik Jana Pawła II,Żagań,51.6232059378013,15.30024363863774
+Pomnik św. Jana Pawła II,Bożnów,51.61188751037221,15.36040484905243
+Pomnik Jana Pawła II,Łęknica,51.54430669494107,14.742107391357422
+Pomnik Jana Pawła II,Różanki,52.794747584973,15.324999690055849

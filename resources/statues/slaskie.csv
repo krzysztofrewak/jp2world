@@ -1,21 +1,21 @@
-name;location;longitude;latitude
-Pomnik Papieża Jana Pawła II.;Katowice;50.25211;19.01877
-Obelisk papieski;Milówka;49.55750334693912;19.087774157524112
-Pomnik Jana Pawła II;Żywiec;49.68858325627208;19.202596196214586
-Pomnik Jana Pawła II;Sosnowiec;50.2839;19.18157
-Pomnik Papieża Jana Pawła II;Piekary Śląskie;50.38236;18.94422
-Pomnik Jana Pawła II;Dąbrowa Górnicza;50.31813;19.21702
-Pomnik Jana Pawła II;Częstochowa;50.81179;19.12678
-Papież Jan Paweł II;Częstochowa;50.81044;19.1544
-Pomnik Jana Pawła II;Częstochowa;50.82938;19.14731
-Papieża Jana Pawła II;Częstochowa;50.81318;19.09834
-Rodziców Papieża Jana Pawła II;Częstochowa;50.81255;19.09349
-Pomnik Jana Pawła II;Tarnowskie Góry;50.43846;18.86283
-Upamiętnienie beatyfikacji Jana Pawła II;Stara Wieś;49.90836;19.11365
-Pomnik Jana Pawła II;Brenna;49.73038;18.90566
-Pomnik Jana Pawła II;Racibórz;50.09781;18.22271
-Pomnik Jana Pawła II;Racibórz;50.08331;18.19436
-Pomnik Jana Pawła II;Zawiercie;50.48857;19.42512
-Pomnik Jana Pawła II w Ogrodzieńcu;Ogrodzieniec;50.45111;19.51889
-Pomnik Jana Pawła II z okazji Pielgrzymki do Ojczyzny 1983;Dzwono-Sierbowice;50.51025;19.65528
-Pomnik Jana Pawła II;Myszków;50.57229;19.3184
+name,location,longitude,latitude
+Pomnik Papieża Jana Pawła II.,Katowice,50.25211,19.01877
+Obelisk papieski,Milówka,49.55750334693912,19.087774157524112
+Pomnik Jana Pawła II,Żywiec,49.68858325627208,19.202596196214586
+Pomnik Jana Pawła II,Sosnowiec,50.2839,19.18157
+Pomnik Papieża Jana Pawła II,Piekary Śląskie,50.38236,18.94422
+Pomnik Jana Pawła II,Dąbrowa Górnicza,50.31813,19.21702
+Pomnik Jana Pawła II,Częstochowa,50.81179,19.12678
+Papież Jan Paweł II,Częstochowa,50.81044,19.1544
+Pomnik Jana Pawła II,Częstochowa,50.82938,19.14731
+Papieża Jana Pawła II,Częstochowa,50.81318,19.09834
+Rodziców Papieża Jana Pawła II,Częstochowa,50.81255,19.09349
+Pomnik Jana Pawła II,Tarnowskie Góry,50.43846,18.86283
+Upamiętnienie beatyfikacji Jana Pawła II,Stara Wieś,49.90836,19.11365
+Pomnik Jana Pawła II,Brenna,49.73038,18.90566
+Pomnik Jana Pawła II,Racibórz,50.09781,18.22271
+Pomnik Jana Pawła II,Racibórz,50.08331,18.19436
+Pomnik Jana Pawła II,Zawiercie,50.48857,19.42512
+Pomnik Jana Pawła II w Ogrodzieńcu,Ogrodzieniec,50.45111,19.51889
+Pomnik Jana Pawła II z okazji Pielgrzymki do Ojczyzny 1983,Dzwono-Sierbowice,50.51025,19.65528
+Pomnik Jana Pawła II,Myszków,50.57229,19.3184

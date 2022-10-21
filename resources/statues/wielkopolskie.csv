@@ -1,59 +1,59 @@
-name;location;longitude;latitude
-Pomnik Jana Pawła II;Poznań;52.4109;16.94779
-pomnik Jana Pawla II;Dąbrowa;52.40468;16.73704
-Pomnik Jana Pawła II;Kalisz;51.76301;18.09384
-Pomnik Jana Pawła II;Kalisz;51.76333;18.09243
-Pomnik Jana Pawła II;Goliszew;51.8725;18.17882
-Pomnik Jana Pawła II;Licheń Stary;52.32264;18.35669
-Jan Paweł II w hołdzie  za pontyfikat 1978-2005,oraz pielgrzymk;Ślesin;52.37179;18.30661
-Pomnik Jana Pawła II;Tuliszków;52.07698;18.28767
-Pomnik Ojca św. Jana Pawła II;Tuliszków;52.07698;18.29646
-Pomnik Jana Pawła II;Piła;53.15062;16.73492
-Pomnik Jana Pawła II;Niechanowo;52.46433;17.67767
-Popiersie Jana Pawła II;Imiołki;52.55296;17.37127
-Witkowo-pomnik Jana Pawła II;Witkowo;52.44;17.77278
-Pomnik Jana Pawła II;Wilkowice;51.88381;16.53185
-Dąb Jana Pawła II;Osieczna;51.9033;16.67633
-Pomnik Jana Pawła II;Śmigiel;52.01261;16.52461
-Pomnik papieża Jana Pawła II;Krotoszyn;51.70831;17.43323
-Pomnik Jana Pawła II;Janków Zaleśny;51.69066;17.6488
-Pomnik Jana Pawła II;Turek;52.01616;18.51451
-Pomnik Jana Pawła II;Galew;52.06766;18.56074
-W pierwszą rocznicę śmierci Jana Pawła II;Malanów;51.95196;18.39324
-Pomnik ku czci Jana Pawła II;Psary;51.98736;18.61688
-Ojca Św. Jana Pawła II;Brudzew;52.10031;18.60413
-Pomnik Jana Pawła II;Jarocin;51.97038;17.49841
-Pomnik Jana Pawła II;Gołańcz;52.94235;17.30057
-Pomnik Jana Pawła II;Margonin;52.97262;17.09692
-Pomnik Jana Pawła II;Kościan;52.08726;16.64436
-Koscian pomnik Jana Pawla II;Kościan;52.083;16.65
-Pomnik Beatyfikacji Jana Pawła II;Miejska Górka;51.65516;16.95222
-Pomnik Jana Pawła II;Miejska Górka;51.65537;16.95289
-Pomnik Jana Pawła II;Piaski;51.88253;17.07196
-Pomnik Jana Pawła II;Pogorzela;51.82212;17.22954
-Pomnik Jana Pawła II;Szamotuły;52.60687;16.58331
-pomnik papieża Jana Pawła II;Wronki;52.70945;16.37334
-Pomnik Jana Pawła II;Oborniki;52.64546;16.81011
-Pomnik Jana Pawła II;Parkowo;52.70432;16.91682
-Pomnik Pamięci Jana Pawła II;Krosin;52.79562;16.66717
-Pomnik Jana Pawła II;Pleszew;51.89584;17.78819
-Pomnik Jana Pawła II;Trzcianka;53.03954;16.46279
-Na Pamiątke Jana Pawła II;Kuźnica Czarnkowska;52.94986;16.51194
-Papież Jan Paweł II;Nowy Tomyśl;52.31341;16.13144
-Pomnik Jana Pawła II;Zbąszyń;52.25099;15.92235
-Płyta pamiątkowa Jana Pawła II;Bolewice;52.40048;16.12194
-Pomnik Jana Pawła II;Ostrzeszów;51.42702;17.92502
-Pomnik Jana Pawła II;Bierzów;51.40343;17.83733
-Pomnik Jana Pawła II;Przedborów;51.49501;18.00177
-Pomnik Jana Pawła II;Grębanin;51.24388;17.9733
-Pomnik Jana Pawła II;Hanulin;51.30891;17.98416
-Pomnik Jana Pawła II;Słupca;52.29863;17.87144
-Pomnik Jana Pawła II;Zagórów;52.16803;17.89752
-Ku czci Jana Pawła II;Kaszczor;51.95807;16.16132
-Pomnik Jana Pawła II;Stróżki;52.70613;16.41431
-Pomnik Pamięci Jana Pawła II;Krosin;52.79534;16.66514
-Pomnik Jana Pawła II;Łowyń;52.4987;15.90368
-Pomnik Jana Pawła II;Chludowo;52.55762949250574;16.84481492372342
-Pomnik Jana Pawła II;Rawicz;51.61157903795787;16.861732721263255
-Pomnik Jana Pawła II;Myjomice;51.32620679341173;18.01661228181672
-Pomnik Jana Pawła II;Wolsztyn;52.119353067199675;16.126846075057987
+name,location,longitude,latitude
+Pomnik Jana Pawła II,Poznań,52.4109,16.94779
+pomnik Jana Pawla II,Dąbrowa,52.40468,16.73704
+Pomnik Jana Pawła II,Kalisz,51.76301,18.09384
+Pomnik Jana Pawła II,Kalisz,51.76333,18.09243
+Pomnik Jana Pawła II,Goliszew,51.8725,18.17882
+Pomnik Jana Pawła II,Licheń Stary,52.32264,18.35669
+"Jan Paweł II w hołdzie  za pontyfikat 1978-2005,oraz pielgrzymk",Ślesin,52.37179,18.30661
+Pomnik Jana Pawła II,Tuliszków,52.07698,18.28767
+Pomnik Ojca św. Jana Pawła II,Tuliszków,52.07698,18.29646
+Pomnik Jana Pawła II,Piła,53.15062,16.73492
+Pomnik Jana Pawła II,Niechanowo,52.46433,17.67767
+Popiersie Jana Pawła II,Imiołki,52.55296,17.37127
+Witkowo-pomnik Jana Pawła II,Witkowo,52.44,17.77278
+Pomnik Jana Pawła II,Wilkowice,51.88381,16.53185
+Dąb Jana Pawła II,Osieczna,51.9033,16.67633
+Pomnik Jana Pawła II,Śmigiel,52.01261,16.52461
+Pomnik papieża Jana Pawła II,Krotoszyn,51.70831,17.43323
+Pomnik Jana Pawła II,Janków Zaleśny,51.69066,17.6488
+Pomnik Jana Pawła II,Turek,52.01616,18.51451
+Pomnik Jana Pawła II,Galew,52.06766,18.56074
+W pierwszą rocznicę śmierci Jana Pawła II,Malanów,51.95196,18.39324
+Pomnik ku czci Jana Pawła II,Psary,51.98736,18.61688
+Ojca Św. Jana Pawła II,Brudzew,52.10031,18.60413
+Pomnik Jana Pawła II,Jarocin,51.97038,17.49841
+Pomnik Jana Pawła II,Gołańcz,52.94235,17.30057
+Pomnik Jana Pawła II,Margonin,52.97262,17.09692
+Pomnik Jana Pawła II,Kościan,52.08726,16.64436
+Koscian pomnik Jana Pawla II,Kościan,52.083,16.65
+Pomnik Beatyfikacji Jana Pawła II,Miejska Górka,51.65516,16.95222
+Pomnik Jana Pawła II,Miejska Górka,51.65537,16.95289
+Pomnik Jana Pawła II,Piaski,51.88253,17.07196
+Pomnik Jana Pawła II,Pogorzela,51.82212,17.22954
+Pomnik Jana Pawła II,Szamotuły,52.60687,16.58331
+pomnik papieża Jana Pawła II,Wronki,52.70945,16.37334
+Pomnik Jana Pawła II,Oborniki,52.64546,16.81011
+Pomnik Jana Pawła II,Parkowo,52.70432,16.91682
+Pomnik Pamięci Jana Pawła II,Krosin,52.79562,16.66717
+Pomnik Jana Pawła II,Pleszew,51.89584,17.78819
+Pomnik Jana Pawła II,Trzcianka,53.03954,16.46279
+Na Pamiątke Jana Pawła II,Kuźnica Czarnkowska,52.94986,16.51194
+Papież Jan Paweł II,Nowy Tomyśl,52.31341,16.13144
+Pomnik Jana Pawła II,Zbąszyń,52.25099,15.92235
+Płyta pamiątkowa Jana Pawła II,Bolewice,52.40048,16.12194
+Pomnik Jana Pawła II,Ostrzeszów,51.42702,17.92502
+Pomnik Jana Pawła II,Bierzów,51.40343,17.83733
+Pomnik Jana Pawła II,Przedborów,51.49501,18.00177
+Pomnik Jana Pawła II,Grębanin,51.24388,17.9733
+Pomnik Jana Pawła II,Hanulin,51.30891,17.98416
+Pomnik Jana Pawła II,Słupca,52.29863,17.87144
+Pomnik Jana Pawła II,Zagórów,52.16803,17.89752
+Ku czci Jana Pawła II,Kaszczor,51.95807,16.16132
+Pomnik Jana Pawła II,Stróżki,52.70613,16.41431
+Pomnik Pamięci Jana Pawła II,Krosin,52.79534,16.66514
+Pomnik Jana Pawła II,Łowyń,52.4987,15.90368
+Pomnik Jana Pawła II,Chludowo,52.55762949250574,16.84481492372342
+Pomnik Jana Pawła II,Rawicz,51.61157903795787,16.861732721263255
+Pomnik Jana Pawła II,Myjomice,51.32620679341173,18.01661228181672
+Pomnik Jana Pawła II,Wolsztyn,52.119353067199675,16.126846075057987

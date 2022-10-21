@@ -1,53 +1,54 @@
-name;location;longitude;latitude
-Szkoła Przedmiotów Ojczystych im. Jana Pawła II przy Polskiej Parafii Katolickiej;Monachium;48.1511891417464;11.569033857819548
-Polska Szkoła im. Jana Pawła II;Staten Island;40.60307118407018;-74.12407327426264
-Polska Szkoła Dokształcająca im. Jana Pawła II;Parsippany;40.86626354357433;-74.39298424895895
-Polska Szkoła Dokształcająca im. Jana Pawła II;Stroudsburg;40.83589054107559;-74.93310279063456
-Szkoła Języka Polskiego im. Jana Pawła II;New Britain;41.64957211325344;-72.77809730551272
-Sobotnia Szkoła Języka Polskiego im. Jana Pawła II;Worcester;42.25107225938516;-71.79775244462775
-Katolicka Polska Szkoła im. Jana Pawła II;Phoenix;33.61959112699919;-112.11923487166598
-Szkoła Języka Polskiego im. Jana Pawła II;Boston;42.12169549235393;-71.10407498768288
-Szkoła Języka Polskiego im. Jana Pawła II;Walnut Creek;37.928337847177964;-122.06343467469569
-Szkoła Polska im. Jana Pawła II;Henderson;36.03108498441991;-115.07725878713153
-Szkoła im. Jana Pawła II;Hamtramek;42.39398711617344;-83.0586104577499
-Polska Szkoła Języka i Kultury im. Jana Pawła II;Gainesville;29.637465813026527;-82.45385503034922
-Szkoła Języka i Kultury Polskiej im. Jana Pawła II;Maspeth;40.59355856694486;-74.06416443154173
-Szkoła Podstawowa im. Jana Pawła II;Wilno;54.71569679768034;25.222038616374288
-Gimnazjum im. Jana Pawła II;Wilno;54.68669574133727;25.20090356710958
-John Paul II Primary School;Uddingston;55.825521217506704;-4.054202651674365
-Polska Szkoła w Fife im. Bł. Jana Pawła II;Kirkcaldy;56.123274717879575;-3.1857253877551304
-Polska Sobotnia Szkoła im. bł. Jana Pawła II;Inverness;57.478696167604504;-4.2265058618351095
-Szkoła Języka Polskiego, Polnische Schul- und Kulturgesellschaft e.V.;Mannheim;49.48950407403177;8.461083740776516
-Ecole catholique Bx Jean Paul II - Welou Mission Catholique Awandjelo;Welou;9.459278265776089;1.2163881843482522
-Polska Szkoła Sobotnia im. Świętego Jana Pawła II;Oslo;59.87170877778566;10.838180381408383
-Polska Szkoła im. Jana Pawła II przy Duszpasterstwie Akademickim i Rodzin \"DAR\" w Arcueil;Arceuil;48.809170944531026;2.330801196544508
-Polska Szkoła Przedmiotów Ojczystych im Jana Pawła II;Lancaster;54.04747460741565;-2.795754931341783
-Polish Catholic Saturday School of John Paul the Second;Bristol;51.33259251574918;-2.9747479256389235
-Polska Szkoła Społeczna im. Św. Jana Pawła II w Grodnie (Białoruś);Grodno;53.68073872272782;23.842484213226765
-John Paul the Great Catholic University;Escondido;33.120858;-117.082379
-Pope John Paul II College;Gulu;2.813914;32.282099
-John Paul II High School;Fort Saskatchewan, Alberta, Kanada;53.700505924074996;-113.20986468658435
-John Paul II Collegiate;North Battleford, Saskatchewan, Kanada;52.779;-108.3044
-St. John Paul II Catholic Secondary School;Morningside, Scarborough, Ontario, Kanada;43.789829;-79.199549
-John Paul II Catholic Secondary School;London, Ontario, Kanada;43.0105;-81.20839
-St. John Paul II Catholic High School ;Huntsville, Alabama, USA;34.71;-86.695278
-St. John Paul II Catholic High School;Avondale, Arizona, USA;33.471343;-112.308557
-Saint John Paul II Academy;Boca Raton, Florida, USA;26.387778;-80.123333
-St. John Paul II Catholic High School;Tallahassee, Florida, USA;30.383333;-84.220278
-Pope John Paul II Catholic High School;Slidell, Louisiana, USA;30.279722;-89.743611
-St. John Paul II High School;Hyannis, Massachusetts, USA;41.648056;-70.284722
-John Paul II Catholic High School;Greenville, North Carolina, USA;35.585833;-77.414167
-Pope John Paul II High School;Royersford, Pennsylvania, USA;40.198306;-75.508944
-Pope John Paul II High School;Hendersonville, Tennessee, USA;36.315833;-86.67
-St. John Paul II High School;Corpus Christi, Texas, USA;27.709722;-97.430278
-John Paul II High School;Plano, Texas, USA;33.0125;-96.764167
-John Paul II Catholic High School;Schertz, Texas, USA;29.644722;-98.226944
-Saint John Paul the Great Catholic High School;Dumfries, Virginia, USA;38.566667;-77.2875
-Pope John Paul II High School;Lacey, Washington, USA;47.037222;-122.808611
-John Paul II High School (Te Kura Tuarua o Hone Paora Tuarua ki Mawhera);Greymouth, Nowa Zelandia;-42.4513;171.212
-Colegio Karol Wojtyla;Lima, Peru;-12.063408210734481;-77.07869069896933
-Scoil Eoin Phóil;Leixlip, Irlandia;53.36566055329201;-6.5020857859756775
-Jono Pauliaus II gimnazija;Kowno, Litwa;54.92313790295222;23.87681654714981
-Universidad Privada Juan Pablo II;Lima, Peru;-12.0211410762867;-76.90368511331766
-Pope John Paul II College of Education;Pondicherry, Puducherry, Indie;11.9308;79.7933
-Istituto Comprensivo Giovanni Paolo II;Rzym, Włochy;41.78582290180284;12.34589298218053
+name,location,longitude,latitude
+Szkoła Przedmiotów Ojczystych im. Jana Pawła II przy Polskiej Parafii Katolickiej,Monachium,48.1511891417464,11.569033857819548
+Polska Szkoła im. Jana Pawła II,Staten Island,40.60307118407018,-74.12407327426264
+Polska Szkoła Dokształcająca im. Jana Pawła II,Parsippany,40.86626354357433,-74.39298424895895
+Polska Szkoła Dokształcająca im. Jana Pawła II,Stroudsburg,40.83589054107559,-74.93310279063456
+Szkoła Języka Polskiego im. Jana Pawła II,New Britain,41.64957211325344,-72.77809730551272
+Sobotnia Szkoła Języka Polskiego im. Jana Pawła II,Worcester,42.25107225938516,-71.79775244462775
+Katolicka Polska Szkoła im. Jana Pawła II,Phoenix,33.61959112699919,-112.11923487166598
+Szkoła Języka Polskiego im. Jana Pawła II,Boston,42.12169549235393,-71.10407498768288
+Szkoła Języka Polskiego im. Jana Pawła II,Walnut Creek,37.928337847177964,-122.06343467469569
+Szkoła Polska im. Jana Pawła II,Henderson,36.03108498441991,-115.07725878713153
+Szkoła im. Jana Pawła II,Hamtramek,42.39398711617344,-83.0586104577499
+Polska Szkoła Języka i Kultury im. Jana Pawła II,Gainesville,29.637465813026527,-82.45385503034922
+Szkoła Języka i Kultury Polskiej im. Jana Pawła II,Maspeth,40.59355856694486,-74.06416443154173
+Szkoła Podstawowa im. Jana Pawła II,Wilno,54.71569679768034,25.222038616374288
+Gimnazjum im. Jana Pawła II,Wilno,54.68669574133727,25.20090356710958
+John Paul II Primary School,Uddingston,55.825521217506704,-4.054202651674365
+Polska Szkoła w Fife im. Bł. Jana Pawła II,Kirkcaldy,56.123274717879575,-3.1857253877551304
+Polska Sobotnia Szkoła im. bł. Jana Pawła II,Inverness,57.478696167604504,-4.2265058618351095
+"Szkoła Języka Polskiego, Polnische Schul- und Kulturgesellschaft e.V.",Mannheim,49.48950407403177,8.461083740776516
+Ecole catholique Bx Jean Paul II - Welou Mission Catholique Awandjelo,Welou,9.459278265776089,1.2163881843482522
+Polska Szkoła Sobotnia im. Świętego Jana Pawła II,Oslo,59.87170877778566,10.838180381408383
+"Polska Szkoła im. Jana Pawła II przy Duszpasterstwie Akademickim i Rodzin \""DAR\"" w Arcueil",Arceuil,48.809170944531026,2.330801196544508
+Polska Szkoła Przedmiotów Ojczystych im Jana Pawła II,Lancaster,54.04747460741565,-2.795754931341783
+Polish Catholic Saturday School of John Paul the Second,Bristol,51.33259251574918,-2.9747479256389235
+Polska Szkoła Społeczna im. Św. Jana Pawła II w Grodnie (Białoruś),Grodno,53.68073872272782,23.842484213226765
+John Paul the Great Catholic University,Escondido,33.120858,-117.082379
+Pope John Paul II College,Gulu,2.813914,32.282099
+John Paul II High School,"Fort Saskatchewan, Alberta, Kanada",53.700505924074996,-113.20986468658435
+John Paul II Collegiate,"North Battleford, Saskatchewan, Kanada",52.779,-108.3044
+St. John Paul II Catholic Secondary School,"Morningside, Scarborough, Ontario, Kanada",43.789829,-79.199549
+John Paul II Catholic Secondary School,"London, Ontario, Kanada",43.0105,-81.20839
+St. John Paul II Catholic High School ,"Huntsville, Alabama, USA",34.71,-86.695278
+St. John Paul II Catholic High School,"Avondale, Arizona, USA",33.471343,-112.308557
+Saint John Paul II Academy,"Boca Raton, Florida, USA",26.387778,-80.123333
+St. John Paul II Catholic High School,"Tallahassee, Florida, USA",30.383333,-84.220278
+Pope John Paul II Catholic High School,"Slidell, Louisiana, USA",30.279722,-89.743611
+St. John Paul II High School,"Hyannis, Massachusetts, USA",41.648056,-70.284722
+John Paul II Catholic High School,"Greenville, North Carolina, USA",35.585833,-77.414167
+Pope John Paul II High School,"Royersford, Pennsylvania, USA",40.198306,-75.508944
+Pope John Paul II High School,"Hendersonville, Tennessee, USA",36.315833,-86.67
+St. John Paul II High School,"Corpus Christi, Texas, USA",27.709722,-97.430278
+John Paul II High School,"Plano, Texas, USA",33.0125,-96.764167
+John Paul II Catholic High School,"Schertz, Texas, USA",29.644722,-98.226944
+Saint John Paul the Great Catholic High School,"Dumfries, Virginia, USA",38.566667,-77.2875
+Pope John Paul II High School,"Lacey, Washington, USA",47.037222,-122.808611
+John Paul II High School (Te Kura Tuarua o Hone Paora Tuarua ki Mawhera),"Greymouth, Nowa Zelandia",-42.4513,171.212
+Colegio Karol Wojtyla,"Lima, Peru",-12.063408210734481,-77.07869069896933
+Scoil Eoin Phóil,"Leixlip, Irlandia",53.36566055329201,-6.5020857859756775
+Jono Pauliaus II gimnazija,"Kowno, Litwa",54.92313790295222,23.87681654714981
+Universidad Privada Juan Pablo II,"Lima, Peru",-12.0211410762867,-76.90368511331766
+Pope John Paul II College of Education,"Pondicherry, Puducherry, Indie",11.9308,79.7933
+Istituto Comprensivo Giovanni Paolo II,"Rzym, Włochy",41.78582290180284,12.34589298218053
+John Paul II Buhemba Primary School,"Buhemba, Tanzania",-1.761885861397808,34.07940472722484

@@ -1,35 +1,35 @@
-name;location;longitude;latitude
-Rondo im. św. Jana Pawła II;Busko-Zdrój;50.4770369;20.7189379
-ul. Jana Pawła II;Jędrzejów;50.6426009;20.3047252
-ul. Jana Pawła II;Nagłowice;50.676518;20.0981478
-ul. Jana Pawła II;Kazimierza Wielka;50.2697209;20.480831
-ul. św. Jana Pawła II;Skalbmierz;50.31722;20.3983891
-Aleja Jana Pawła II;Chęciny;50.8092;20.4669471
-ul. Jana Pawła II;Chmielnik;50.6140209;20.75267175
-ul. Jana Pawła II;Bęczków;50.8780824;20.8035092
-ul. Jana Pawła II;Masłów Pierwszy;50.90192;20.7144531
-pl. Świętego Jana Pawła II;Masłów Pierwszy;50.9024;20.7253468
-ul. Jana Pawła II;Ćmińsk;50.9793;20.5410246
-ul. Jana Pawła II;Bilcza;50.7880806;20.6296518
-ul. Św. Jana Pawła II;Rykoszyn;50.8575;20.41155
-ul. Jana Pawła II;Pierzchnica;50.698324625;20.7497656182535
-ul. św. Jana Pawła II;Zagnańsk;50.96856;20.6852869
-ul. Św. Jana Pawła II;Fałków;51.1291611;20.1048836
-Plac Jana Pawła II;Końskie;51.1774895;20.4132166386399
-ul. Papieża Jana Pawła II;Radoszyce;51.07614725;20.2515503
-ul. Jana Pawła II;Stąporków;51.1358047;20.5567112
-ul. Jana Pawła II;Ożarów;50.8865396;21.66663345
-ul. Aleja Jana Pawła II;Ostrowiec Świętokrzyski;50.948959;21.3922075758065
-ul. Jana Pawła II;Pińczów;50.5151056;20.5481024
-al. Jana Pawła II;Sandomierz;50.67514;21.7510733
-pl. Jana Pawła II;Sandomierz;50.67714;21.7527291
-ul. Jana Pawła II;Klimontów;50.6574997;21.4473554
-skwer Jana Pawła II;Koprzywnica;50.5929995;21.5785336
-al. Jana Pawła II;Skarżysko-Kamienna;51.10408;20.8490998
-ul. Jana Pawła II;Majków;51.09696;20.925298
-Aleja Świętego Jana Pawła II;Starachowice;51.03708;21.0613972
-ul. Jana Pawła II;Osiek;50.5158565;21.44585765
-ul. Jana Pawła II;Połaniec;50.4212194;21.287111
-ul. Jana Pawła II;Kłoda;50.49909;21.2293
-ul. Jana Pawła II;Staszów;50.5675;21.1721649
-ul. Jana Pawła II;Kielce;50.86682;20.6289299
+name,location,longitude,latitude
+Rondo im. św. Jana Pawła II,Busko-Zdrój,50.4770369,20.7189379
+ul. Jana Pawła II,Jędrzejów,50.6426009,20.3047252
+ul. Jana Pawła II,Nagłowice,50.676518,20.0981478
+ul. Jana Pawła II,Kazimierza Wielka,50.2697209,20.480831
+ul. św. Jana Pawła II,Skalbmierz,50.31722,20.3983891
+Aleja Jana Pawła II,Chęciny,50.8092,20.4669471
+ul. Jana Pawła II,Chmielnik,50.6140209,20.75267175
+ul. Jana Pawła II,Bęczków,50.8780824,20.8035092
+ul. Jana Pawła II,Masłów Pierwszy,50.90192,20.7144531
+pl. Świętego Jana Pawła II,Masłów Pierwszy,50.9024,20.7253468
+ul. Jana Pawła II,Ćmińsk,50.9793,20.5410246
+ul. Jana Pawła II,Bilcza,50.7880806,20.6296518
+ul. Św. Jana Pawła II,Rykoszyn,50.8575,20.41155
+ul. Jana Pawła II,Pierzchnica,50.698324625,20.7497656182535
+ul. św. Jana Pawła II,Zagnańsk,50.96856,20.6852869
+ul. Św. Jana Pawła II,Fałków,51.1291611,20.1048836
+Plac Jana Pawła II,Końskie,51.1774895,20.4132166386399
+ul. Papieża Jana Pawła II,Radoszyce,51.07614725,20.2515503
+ul. Jana Pawła II,Stąporków,51.1358047,20.5567112
+ul. Jana Pawła II,Ożarów,50.8865396,21.66663345
+ul. Aleja Jana Pawła II,Ostrowiec Świętokrzyski,50.948959,21.3922075758065
+ul. Jana Pawła II,Pińczów,50.5151056,20.5481024
+al. Jana Pawła II,Sandomierz,50.67514,21.7510733
+pl. Jana Pawła II,Sandomierz,50.67714,21.7527291
+ul. Jana Pawła II,Klimontów,50.6574997,21.4473554
+skwer Jana Pawła II,Koprzywnica,50.5929995,21.5785336
+al. Jana Pawła II,Skarżysko-Kamienna,51.10408,20.8490998
+ul. Jana Pawła II,Majków,51.09696,20.925298
+Aleja Świętego Jana Pawła II,Starachowice,51.03708,21.0613972
+ul. Jana Pawła II,Osiek,50.5158565,21.44585765
+ul. Jana Pawła II,Połaniec,50.4212194,21.287111
+ul. Jana Pawła II,Kłoda,50.49909,21.2293
+ul. Jana Pawła II,Staszów,50.5675,21.1721649
+ul. Jana Pawła II,Kielce,50.86682,20.6289299

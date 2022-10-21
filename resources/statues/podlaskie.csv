@@ -1,17 +1,17 @@
-name;location;longitude;latitude
-Pomnik Jana Pawła II;Białystok;53.13238;23.1631
-Papież Jan Paweł II;Juchnowiec Kościelny;53.01877;23.14133
-Papież Jan Paweł II;Wigry;54.06937;23.0945
-Papież Jan Paweł  II;Krasnopol;54.11531;23.20607
-W hołdzie pamięci Pontyfikatu Papieża Jana Pawła II;Gawrych Ruda;54.01848;22.98693
-Pomnik Jana Pawła II;Łomża;53.17861;22.07617
-Pamięci Jana Pawła II;Drozdowo;53.1505;22.1736
-pomnik Jana Pawła II;Śniadowo;53.03799;21.9903
-Pomnik Jana Pawła II;Augustów;53.84304;22.98206
-Pomnik Jana Pawła II;Wyszki;52.84429;22.99433
-Pomnik Jana Pawła II;Kołaki Kościelne;53.02262;22.37773
-Pomnik Jana Pawła II;Szumowo;52.9205;22.08378
-Pomnik Jana Pawła II;Szczuczyn;53.56063;22.28436
-Pomnik Jana Pawła II;Czarna Białostocka;53.29817;23.28676
-Pomnik Jana Pawła II;Siemiatycze;52.42898;22.86411
-Papież Jan Paweł II;Korycin;53.44467;23.09036
+name,location,longitude,latitude
+Pomnik Jana Pawła II,Białystok,53.13238,23.1631
+Papież Jan Paweł II,Juchnowiec Kościelny,53.01877,23.14133
+Papież Jan Paweł II,Wigry,54.06937,23.0945
+Papież Jan Paweł  II,Krasnopol,54.11531,23.20607
+W hołdzie pamięci Pontyfikatu Papieża Jana Pawła II,Gawrych Ruda,54.01848,22.98693
+Pomnik Jana Pawła II,Łomża,53.17861,22.07617
+Pamięci Jana Pawła II,Drozdowo,53.1505,22.1736
+pomnik Jana Pawła II,Śniadowo,53.03799,21.9903
+Pomnik Jana Pawła II,Augustów,53.84304,22.98206
+Pomnik Jana Pawła II,Wyszki,52.84429,22.99433
+Pomnik Jana Pawła II,Kołaki Kościelne,53.02262,22.37773
+Pomnik Jana Pawła II,Szumowo,52.9205,22.08378
+Pomnik Jana Pawła II,Szczuczyn,53.56063,22.28436
+Pomnik Jana Pawła II,Czarna Białostocka,53.29817,23.28676
+Pomnik Jana Pawła II,Siemiatycze,52.42898,22.86411
+Papież Jan Paweł II,Korycin,53.44467,23.09036

@@ -1,39 +1,39 @@
-name;location;longitude;latitude
-Katolicka Szkoła Podstawowa im. Jana Pawła II;Koszalin;54.20622;16.19131
-Szkoła Podstawowa im. Jana Pawła II w Krępsku;Krępsko;53.59626;14.7426446
-Zespół Szkół Ogólnokształcących im. Jana Pawła II;Pobierowo;54.05704;14.9290003
-Szkoła Podstawowa nr 9 im. Jana Pawła II;Świnoujście;53.88782;14.3382395
-Publiczne Gimnazjum im. Jana Pawła II - zlikwidowane 2019;Banie;53.1022473;14.6620379
-Zespół Szkół Specjalnych im. Jana Pawła II;Białogard;54.00978;15.9851421
-Szkoła Podstawowa im. Jana Pawła II;Strączno;53.24078;16.3787115
-Szkoła Podstawowa im. Jana Pawła II;Zielin;52.80382;14.5706976
-Szkoła Podstawowa im. Jana Pawła II;Chwarstnica;53.21952;14.6087531
-Gimnazjum im. Jana Pawła II - zlikwidowane 2018;Tychowo;53.92472;16.2515887
-Szkoła Podstawowa nr 4 im. Jana Pawła II;Nowogard;53.68884;15.12227
-Szkoła Podstawowa im. Jana Pawła II;Mostkowo;52.99412;15.0619622
-Szkoła Podstawowa im. Jana Pawła II;Bielice;53.20358;14.7267542
-Zespół Szkół Zawodowych Nr 1 im. Jana Pawła II - zlikwidowane 2010;Szczecin;53.41632;14.5495492
-Szkoła Podstawowa im. Jana Pawła II;Korytowo;53.14446;15.5497698
-Szkoła Podstawowa im. Jana Pawła II;Nętno;53.61832;15.8124108
-Szkoła Podstawowa im. Jana Pawła II - zlikwidowana 2019;Lubieniów;53.22036;15.6129535
-Szkoła Podstawowa im. Jana Pawła II;Brzesko;53.1245826;15.0091934
-Gimnazjum im. Jana Pawła II w Zespole Placówek Oświatowych - zlikwidowane 2019;Chociwel;53.45962;15.3334054
-Szkoła Podstawowa nr 5 z Oddziałami Integracyjnymi im. Jana Pawła II;Kołobrzeg;54.1763;15.5401252
-Szkoła Podstawowa w Maszewie im. Jana Pawła II;Maszewo;53.4978959;15.0574903
-Gimnazjum nr 1 im. Jana Pawła II - zlikwidowane 2019;Międzyzdroje;53.9263;14.4560954
-Publiczne Gimnazjum im. Jana Pawła II w Zespole Szkół - zlikwidowane 2019;Moryń;52.85886;14.3930859
-Szkoła Podstawowa im. Jana Pawła II;Będargowo;53.39512;14.4388687
-Szkoła Podstawowa im. Jana Pawła II;Grzędzice;53.3592297;14.9729327
-Szkoła Podstawowa im. Jana Pawła II (filia szkoły w Marianowie);Dzwonowo;53.41526;15.2451224
-Szkoła Podstawowa nr 8 im. Jana Pawła II;Police;53.53688;14.550014
-Młodzieżowy Ośrodek Wychowawczy im. Jana Pawła II;Rzepczyno;53.70012;15.8182789
-Szkoła Podstawowa im. Jana Pawła II;Żydowo;54.0397591;16.7159208
-Katolicka Szkoła Podstawowa im. Jana Pawła II;Szczecin;53.3567;14.590684
-Zespół Szkół Ogólnokształcących nr 8 im. Karola Wojtyły - zlikwidowane 2008;Szczecin;53.38064;14.6555817
-Szkoła Podstawowa im. Jana Pawła II w Trzygłowie;Trzygłów;53.86048;15.1648573
-Gimnazjum im. Jana Pawła II - zlikwidowane 2019;Wierzchowo;53.45606;16.0967232
-Szkoła Podstawowa nr 35 im. Jana Pawła II;Szczecin;53.4498;14.5559693
-Szkoła Podstawowa nr 5 im. Jana Pawła II;Stargard;53.33998;15.0472629
-Szkoła Podstawowa im. Jana Pawła II;Marianowo;53.37838;15.266939
-Szkoła Podstawowa im. Jana Pawła II;Dźwirzyno;54.15662;15.3999589
-Szkoła Podstawowa im. Świętego Jana Pawła II w Modlimowie;Modlimowo;53.86166;15.3336378
+name,location,longitude,latitude
+Katolicka Szkoła Podstawowa im. Jana Pawła II,Koszalin,54.20622,16.19131
+Szkoła Podstawowa im. Jana Pawła II w Krępsku,Krępsko,53.59626,14.7426446
+Zespół Szkół Ogólnokształcących im. Jana Pawła II,Pobierowo,54.05704,14.9290003
+Szkoła Podstawowa nr 9 im. Jana Pawła II,Świnoujście,53.88782,14.3382395
+Publiczne Gimnazjum im. Jana Pawła II - zlikwidowane 2019,Banie,53.1022473,14.6620379
+Zespół Szkół Specjalnych im. Jana Pawła II,Białogard,54.00978,15.9851421
+Szkoła Podstawowa im. Jana Pawła II,Strączno,53.24078,16.3787115
+Szkoła Podstawowa im. Jana Pawła II,Zielin,52.80382,14.5706976
+Szkoła Podstawowa im. Jana Pawła II,Chwarstnica,53.21952,14.6087531
+Gimnazjum im. Jana Pawła II - zlikwidowane 2018,Tychowo,53.92472,16.2515887
+Szkoła Podstawowa nr 4 im. Jana Pawła II,Nowogard,53.68884,15.12227
+Szkoła Podstawowa im. Jana Pawła II,Mostkowo,52.99412,15.0619622
+Szkoła Podstawowa im. Jana Pawła II,Bielice,53.20358,14.7267542
+Zespół Szkół Zawodowych Nr 1 im. Jana Pawła II - zlikwidowane 2010,Szczecin,53.41632,14.5495492
+Szkoła Podstawowa im. Jana Pawła II,Korytowo,53.14446,15.5497698
+Szkoła Podstawowa im. Jana Pawła II,Nętno,53.61832,15.8124108
+Szkoła Podstawowa im. Jana Pawła II - zlikwidowana 2019,Lubieniów,53.22036,15.6129535
+Szkoła Podstawowa im. Jana Pawła II,Brzesko,53.1245826,15.0091934
+Gimnazjum im. Jana Pawła II w Zespole Placówek Oświatowych - zlikwidowane 2019,Chociwel,53.45962,15.3334054
+Szkoła Podstawowa nr 5 z Oddziałami Integracyjnymi im. Jana Pawła II,Kołobrzeg,54.1763,15.5401252
+Szkoła Podstawowa w Maszewie im. Jana Pawła II,Maszewo,53.4978959,15.0574903
+Gimnazjum nr 1 im. Jana Pawła II - zlikwidowane 2019,Międzyzdroje,53.9263,14.4560954
+Publiczne Gimnazjum im. Jana Pawła II w Zespole Szkół - zlikwidowane 2019,Moryń,52.85886,14.3930859
+Szkoła Podstawowa im. Jana Pawła II,Będargowo,53.39512,14.4388687
+Szkoła Podstawowa im. Jana Pawła II,Grzędzice,53.3592297,14.9729327
+Szkoła Podstawowa im. Jana Pawła II (filia szkoły w Marianowie),Dzwonowo,53.41526,15.2451224
+Szkoła Podstawowa nr 8 im. Jana Pawła II,Police,53.53688,14.550014
+Młodzieżowy Ośrodek Wychowawczy im. Jana Pawła II,Rzepczyno,53.70012,15.8182789
+Szkoła Podstawowa im. Jana Pawła II,Żydowo,54.0397591,16.7159208
+Katolicka Szkoła Podstawowa im. Jana Pawła II,Szczecin,53.3567,14.590684
+Zespół Szkół Ogólnokształcących nr 8 im. Karola Wojtyły - zlikwidowane 2008,Szczecin,53.38064,14.6555817
+Szkoła Podstawowa im. Jana Pawła II w Trzygłowie,Trzygłów,53.86048,15.1648573
+Gimnazjum im. Jana Pawła II - zlikwidowane 2019,Wierzchowo,53.45606,16.0967232
+Szkoła Podstawowa nr 35 im. Jana Pawła II,Szczecin,53.4498,14.5559693
+Szkoła Podstawowa nr 5 im. Jana Pawła II,Stargard,53.33998,15.0472629
+Szkoła Podstawowa im. Jana Pawła II,Marianowo,53.37838,15.266939
+Szkoła Podstawowa im. Jana Pawła II,Dźwirzyno,54.15662,15.3999589
+Szkoła Podstawowa im. Świętego Jana Pawła II w Modlimowie,Modlimowo,53.86166,15.3336378

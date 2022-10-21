@@ -1,25 +1,25 @@
-name;location;longitude;latitude
-Pomnik Jana Pawła II;Gdańsk;54.4008;18.60931
-Papież Jan Paweł II;Gdańsk;54.33777;18.51447
-Pomnik Jana Pawła II;Gdańsk;54.35439;18.65203
-Papieża Jana Pawła II i Prezydenta Ronalda Reagana;Gdańsk;54.41748;18.61102
-Pomnik papieża Jana Pawła II i prezydenta Ronalda Reagana;Gdańsk;54.4167;18.60452
-Pomnik Jana Pawła II;Gdańsk;54.40018;18.60453
-Pomnik Jana Pawła II;Gdynia;54.51822;18.54219
-Pomnik Papieża Jana Pawła II;Rumia;54.57815;18.39802
-Pomnik Jana Pawła II;Lipsk;54.46558;17.03734
-VIII Obelisk Jana Pawła II;Lubuń;54.36041;17.08508
-VII Obelisk Jana Pawła II;Leśniczówka Zaścianek;54.35859;17.15567
-Pomnik Jana Pawła II;Pszczółki;54.17775;18.68922
-Pomnik Jana Pawła II;Tczew;54.09512;18.76346
-Pomnik Jana Pawła II;Gościcino;54.59472;18.16101
-Pomnik Jana Pawła II;Starogard Gdański;53.96817;18.53106
-Pomnik Jana Pawła II;Rozłazino;54.52584;17.91237
-Papież Jan Paweł II;Kamienica Królewska;54.39177;17.88718
-pomnik Jana Pawła II;Leśniewo;54.69461;18.24426
-VII Obelisk Jana Pawła II;Niepoględzie;54.2954;17.37583
-Pomnik Jana Pawła II;Żukowo;54.33886;18.35823
-Pomnik Jana Pawła II;Brzezie;53.83672;16.92578
-Pomnik Jana Pawła II;Stegna;54.32641;19.12585
-Pomnik Jana Pawła II;Bytów;54.169795056622775;17.490524260892535
-Pomnik  Jana Pawła II i prezydenta Ronalda Reagana;Przymorze Wielkie;54.41676060102457;18.604568839073185
+name,location,longitude,latitude
+Pomnik Jana Pawła II,Gdańsk,54.4008,18.60931
+Papież Jan Paweł II,Gdańsk,54.33777,18.51447
+Pomnik Jana Pawła II,Gdańsk,54.35439,18.65203
+Papieża Jana Pawła II i Prezydenta Ronalda Reagana,Gdańsk,54.41748,18.61102
+Pomnik papieża Jana Pawła II i prezydenta Ronalda Reagana,Gdańsk,54.4167,18.60452
+Pomnik Jana Pawła II,Gdańsk,54.40018,18.60453
+Pomnik Jana Pawła II,Gdynia,54.51822,18.54219
+Pomnik Papieża Jana Pawła II,Rumia,54.57815,18.39802
+Pomnik Jana Pawła II,Lipsk,54.46558,17.03734
+VIII Obelisk Jana Pawła II,Lubuń,54.36041,17.08508
+VII Obelisk Jana Pawła II,Leśniczówka Zaścianek,54.35859,17.15567
+Pomnik Jana Pawła II,Pszczółki,54.17775,18.68922
+Pomnik Jana Pawła II,Tczew,54.09512,18.76346
+Pomnik Jana Pawła II,Gościcino,54.59472,18.16101
+Pomnik Jana Pawła II,Starogard Gdański,53.96817,18.53106
+Pomnik Jana Pawła II,Rozłazino,54.52584,17.91237
+Papież Jan Paweł II,Kamienica Królewska,54.39177,17.88718
+pomnik Jana Pawła II,Leśniewo,54.69461,18.24426
+VII Obelisk Jana Pawła II,Niepoględzie,54.2954,17.37583
+Pomnik Jana Pawła II,Żukowo,54.33886,18.35823
+Pomnik Jana Pawła II,Brzezie,53.83672,16.92578
+Pomnik Jana Pawła II,Stegna,54.32641,19.12585
+Pomnik Jana Pawła II,Bytów,54.169795056622775,17.490524260892535
+Pomnik  Jana Pawła II i prezydenta Ronalda Reagana,Przymorze Wielkie,54.41676060102457,18.604568839073185

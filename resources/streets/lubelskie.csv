@@ -1,47 +1,47 @@
-name;location;longitude;latitude
-Plac Jana Pawła II;Międzyrzec Podlaski;51.983684375;22.784699375
-ul. Jana Pawła II;Terespol;52.07006;23.612452
-ul. Jana Pawła II;Leśna Podlaska;52.13483825;23.0242173012862
-ul. Jana Pawła II;Kobylany;52.0574355;23.5582666
-ul. Aleja Jana Pawła II;Biłgoraj;50.5310486;22.7089318363487
-ul. św. Jana Pawła II;Tarnogród;50.36271985;22.7362775
-ul. Jana Pawła II;Rejowiec Fabryczny;51.1196949;23.2503343
-Skwer im. św. Jana Pawła II;Okszów-Kolonia;50.368044825;23.652681874569
-ul. Jana Pawła II;Dorohusk;51.1548108;23.8037552
-ul. Jana Pawła II;Świerże;51.2164694;23.7353928
-ul. Jana Pawła II;Werbkowice;50.751459175;23.7678241131579
-ul. Jana Pawła II;Janów Lubelski;50.7034071;22.4208099
-skwer Jana Pawła II;Modliborzyce;50.75622;22.3279772
-ul. Świętego Jana Pawła II;Krasnystaw;50.9910904;23.1580108
-Park Świętego Jana Pawła II;Kraśnik;50.92524;22.2193302
-ul. Jana Pawła II;Lubartów;51.4625127;22.6090137
-ul. Jana Pawła II;Kock;51.6387;22.4386868
-ul. Jana Pawła II;Ostrów Lubelski;51.491411075;22.8529714883113
-ul. Jana Pawła II;Zagrody;51.3630371;22.2974830763889
-ul. Aleja Jana Pawła II;Łęczna;51.3008182;22.8815673
-ul. Jana Pawła II;Łuków;51.938887075;22.380508928173
-Rondo Świętego Jana Pawła II;Elżbieta;51.1360868;21.9469643
-ul. Aleje Jana Pawła II;Parczew;51.63498;22.897212
-skwer św. Jana Pawła II;Puławy;51.41756;21.9736544
-ul. Jana Pawła II;Radzyń Podlaski;51.78324;22.621818
-Rondo im. Papieża Jana Pawła II;Radzyń Podlaski;51.7732834;22.6136549
-ul. Jana Pawła II;Borki;51.719803275;22.5244552968266
-ul. Jana Pawła II;Ryki;51.62146;21.9204348
-ul. Karola Wojtyły;Ryki;51.6244386;21.9303600991336
-rondo Jana Pawła II;Świdnik;51.20901;22.6817702
-ul. Aleja Jana Pawła II;Świdnik;51.21162;22.66365
-ul. Papieża Jana Pawła II;Tomaszów Lubelski;50.4487751;23.4132114
-ul. Jana Pawła II;Lubycza Królewska;50.33635135;23.52688135
-ul. Św. Jana Pawła II;Machnów Nowy;50.36746;23.6510885
-ul. Jana Pawła II;Łaszczów;50.5354427;23.7370985
-ul. Jana Pawła II;Telatyn;50.52662;23.8528117
-ul. Aleja Jana Pawła II;Włodawa;51.54808;23.5486582
-ul. Aleja Jana Pawła II;Biała Podlaska;52.0344425;23.1338527691629
-rondo Jana Pawła II;Chełm;51.1361049;23.4673938
-ul. Jana Pawła II;Lublin;51.22574;22.5060247
-al. Aleje Jana Pawła II;Zamość;50.71093405;23.285914548191
-Skwer Św. Jana Pawła II;Zamość;50.71706;23.2504309
-Skwer im. św. Jana Pawła II;Okszów;51.16482620242183;23.494014591865685
-pl. im. Jana Pawła II;Chełm;51.14382;23.4302214
-Park Jana Pawła II;Lublin;51.2248;22.5190681
-Most im. Jana Pawła II;Puławy;51.43722026059121;21.94374440306841
+name,location,longitude,latitude
+Plac Jana Pawła II,Międzyrzec Podlaski,51.983684375,22.784699375
+ul. Jana Pawła II,Terespol,52.07006,23.612452
+ul. Jana Pawła II,Leśna Podlaska,52.13483825,23.0242173012862
+ul. Jana Pawła II,Kobylany,52.0574355,23.5582666
+ul. Aleja Jana Pawła II,Biłgoraj,50.5310486,22.7089318363487
+ul. św. Jana Pawła II,Tarnogród,50.36271985,22.7362775
+ul. Jana Pawła II,Rejowiec Fabryczny,51.1196949,23.2503343
+Skwer im. św. Jana Pawła II,Okszów-Kolonia,50.368044825,23.652681874569
+ul. Jana Pawła II,Dorohusk,51.1548108,23.8037552
+ul. Jana Pawła II,Świerże,51.2164694,23.7353928
+ul. Jana Pawła II,Werbkowice,50.751459175,23.7678241131579
+ul. Jana Pawła II,Janów Lubelski,50.7034071,22.4208099
+skwer Jana Pawła II,Modliborzyce,50.75622,22.3279772
+ul. Świętego Jana Pawła II,Krasnystaw,50.9910904,23.1580108
+Park Świętego Jana Pawła II,Kraśnik,50.92524,22.2193302
+ul. Jana Pawła II,Lubartów,51.4625127,22.6090137
+ul. Jana Pawła II,Kock,51.6387,22.4386868
+ul. Jana Pawła II,Ostrów Lubelski,51.491411075,22.8529714883113
+ul. Jana Pawła II,Zagrody,51.3630371,22.2974830763889
+ul. Aleja Jana Pawła II,Łęczna,51.3008182,22.8815673
+ul. Jana Pawła II,Łuków,51.938887075,22.380508928173
+Rondo Świętego Jana Pawła II,Elżbieta,51.1360868,21.9469643
+ul. Aleje Jana Pawła II,Parczew,51.63498,22.897212
+skwer św. Jana Pawła II,Puławy,51.41756,21.9736544
+ul. Jana Pawła II,Radzyń Podlaski,51.78324,22.621818
+Rondo im. Papieża Jana Pawła II,Radzyń Podlaski,51.7732834,22.6136549
+ul. Jana Pawła II,Borki,51.719803275,22.5244552968266
+ul. Jana Pawła II,Ryki,51.62146,21.9204348
+ul. Karola Wojtyły,Ryki,51.6244386,21.9303600991336
+rondo Jana Pawła II,Świdnik,51.20901,22.6817702
+ul. Aleja Jana Pawła II,Świdnik,51.21162,22.66365
+ul. Papieża Jana Pawła II,Tomaszów Lubelski,50.4487751,23.4132114
+ul. Jana Pawła II,Lubycza Królewska,50.33635135,23.52688135
+ul. Św. Jana Pawła II,Machnów Nowy,50.36746,23.6510885
+ul. Jana Pawła II,Łaszczów,50.5354427,23.7370985
+ul. Jana Pawła II,Telatyn,50.52662,23.8528117
+ul. Aleja Jana Pawła II,Włodawa,51.54808,23.5486582
+ul. Aleja Jana Pawła II,Biała Podlaska,52.0344425,23.1338527691629
+rondo Jana Pawła II,Chełm,51.1361049,23.4673938
+ul. Jana Pawła II,Lublin,51.22574,22.5060247
+al. Aleje Jana Pawła II,Zamość,50.71093405,23.285914548191
+Skwer Św. Jana Pawła II,Zamość,50.71706,23.2504309
+Skwer im. św. Jana Pawła II,Okszów,51.16482620242183,23.494014591865685
+pl. im. Jana Pawła II,Chełm,51.14382,23.4302214
+Park Jana Pawła II,Lublin,51.2248,22.5190681
+Most im. Jana Pawła II,Puławy,51.43722026059121,21.94374440306841

@@ -1,30 +1,30 @@
-name;location;longitude;latitude
-Pomnik Jana Pawła II;Tyczyn;49.96574;22.02952
-Pomnik Jana Pawła II;Zaczernie;50.09108;21.99439
-Figura Jana Pawła II;Wysoka Głogowska;50.15785;22.02211
-Pomnik Jana Pawła II;Przemyśl;49.78158;22.77305
-Pomnik św. Jana Pawła II;Kalwaria Pacławska;49.63104;22.70585
-Pomnik Jana Pawła II;Sokolniki;50.64901;21.80276
-Pomnik Jana Pawła II;Stalowa Wola;50.56871;22.066
-Pomnik im. Jana Pawła II;Ulanów;50.48996;22.26226
-Pomnik Jana Pawła II;Trześń;50.33254;21.49555
-Pomnik ku czci Jana Pawła II;Mielec;50.24453;21.49005
-900 lat Zgórska w roku beatyfikacji Papieża Jana Pawła II;Podborze;50.23859;21.28834
-Pomnik im. Jana Pawła II;Wola Ociecka;50.15998;21.5406
-Pomnik Jana Pawła II;Tarnobrzeg;50.58564;21.68701
-Pomnik Jan Paweł II;Łężyny;49.64695;21.52237
-Pomnik Jana Pawła II;Targowiska;49.65213;21.82065
-Popiersie Jana Pawła II;Łubienko;49.65084;21.56981
-Pomnik Jana Pawła II;Dębica;50.05392;21.41134
-Papież Jan Paweł II;Sieniawa;50.17645;22.60834
-Figura Jana Pawła II;Brzyska;49.81308;21.35155
-Pomnik Jana Pawła II;Wiśniowa;49.86872;21.64623
-Pomnik Jana Pawła II;Chmielnik;49.98374;22.1188
-Pomnik Jana Pawła II;Ropczyce;50.05373;21.61163
-Pomnik Jana Pawła II;Olchowa;50.05549;21.75732
-Pomnik Jana Pawła II;Leżajsk;50.2704;22.40759
-Lezajsk, mury bazyliki i pomnik Jana Pawla II;Leżajsk;50.2703;22.4076
-Pomnik Jana Pawła II;Lipnica;50.28848;21.8905
-Figura Jana Pawła II;Wola Raniżowska;50.29542;21.95121
-Pomnik w Parku Papieskim;Rzeszów;50.01553389205665;22.020390563287183
-Pomnik Jana Pawła II;Rzeszów;50.01319227264659;22.01917376085774
+name,location,longitude,latitude
+Pomnik Jana Pawła II,Tyczyn,49.96574,22.02952
+Pomnik Jana Pawła II,Zaczernie,50.09108,21.99439
+Figura Jana Pawła II,Wysoka Głogowska,50.15785,22.02211
+Pomnik Jana Pawła II,Przemyśl,49.78158,22.77305
+Pomnik św. Jana Pawła II,Kalwaria Pacławska,49.63104,22.70585
+Pomnik Jana Pawła II,Sokolniki,50.64901,21.80276
+Pomnik Jana Pawła II,Stalowa Wola,50.56871,22.066
+Pomnik im. Jana Pawła II,Ulanów,50.48996,22.26226
+Pomnik Jana Pawła II,Trześń,50.33254,21.49555
+Pomnik ku czci Jana Pawła II,Mielec,50.24453,21.49005
+900 lat Zgórska w roku beatyfikacji Papieża Jana Pawła II,Podborze,50.23859,21.28834
+Pomnik im. Jana Pawła II,Wola Ociecka,50.15998,21.5406
+Pomnik Jana Pawła II,Tarnobrzeg,50.58564,21.68701
+Pomnik Jan Paweł II,Łężyny,49.64695,21.52237
+Pomnik Jana Pawła II,Targowiska,49.65213,21.82065
+Popiersie Jana Pawła II,Łubienko,49.65084,21.56981
+Pomnik Jana Pawła II,Dębica,50.05392,21.41134
+Papież Jan Paweł II,Sieniawa,50.17645,22.60834
+Figura Jana Pawła II,Brzyska,49.81308,21.35155
+Pomnik Jana Pawła II,Wiśniowa,49.86872,21.64623
+Pomnik Jana Pawła II,Chmielnik,49.98374,22.1188
+Pomnik Jana Pawła II,Ropczyce,50.05373,21.61163
+Pomnik Jana Pawła II,Olchowa,50.05549,21.75732
+Pomnik Jana Pawła II,Leżajsk,50.2704,22.40759
+"Lezajsk, mury bazyliki i pomnik Jana Pawla II",Leżajsk,50.2703,22.4076
+Pomnik Jana Pawła II,Lipnica,50.28848,21.8905
+Figura Jana Pawła II,Wola Raniżowska,50.29542,21.95121
+Pomnik w Parku Papieskim,Rzeszów,50.01553389205665,22.020390563287183
+Pomnik Jana Pawła II,Rzeszów,50.01319227264659,22.01917376085774

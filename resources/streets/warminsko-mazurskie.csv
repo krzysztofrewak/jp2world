@@ -1,29 +1,29 @@
-name;location;longitude;latitude
-ul. Jana Pawła II;Bartoszyce;54.2471753;20.8180234
-Park Jana Pawła II;Działdowo;53.699016;19.9573691496831
-ul. Jana Pawła II;Pasłęk;54.062019225;19.6675228240107
-pl. Jana Pawła II;Ełk;53.81794;22.3559233
-ul. Jana Pawła II;Ełk;53.8017;22.3576082
-ul. Jana Pawła II;Nowa Wieś Ełcka;53.7679697;22.3228185374539
-Bulwar im. Jana Pawła II;Iława;53.595505;19.5625408
-Plac im. Jana Pawła II;Zalewo;53.845961;19.6064182
-rondo Jana Pawła II;Kętrzyn;54.0765906;21.375239
-ul. Jana Pawła II;Orneta;54.111549175;20.1269100577586
-skwer Jana Pawła II;Mrągowo;53.870362;21.304619
-pl. Jana Pawła II;Dobre Miasto;53.98666;20.3972561
-ul. Jana Pawła II;Dobre Miasto;53.987;20.3959489
-ul. Jana Pawła II;Dywity;53.83424655;20.484120777076
-ul. Jana Pawła II;Olsztynek;53.584585875;20.2938772783449
-ul. Jana Pawła II;Ostróda;53.69938;19.9578749
-Pl. Jana Pawła II;Morąg;53.91194;19.9276048
-ul. Jana Pawła II;Pasym;53.63812755;20.7768422967942
-ul. Plac Jana Pawła II;Rozogi;53.482084575;21.3626764089395
-ul. Jana Pawła II;Węgorzewo;54.20230185;21.7517041774823
-ul. Aleja Jana Pawła II;Elbląg;54.18846545;19.4045463861106
-Plac Jana Pawła II;Olsztyn;53.77840845;20.479082659162
-ul. Aleja Jana Pawła II;Iława;53.5934933;19.5837354
-ul. Jana Pawła II;Jamielnik;53.5196979;19.507928
-Rondo im. św. Jana Pawła II;Giżycko;54.03616;21.767196
-Skwer im. św. Jana Pawła II;Kętrzyn;54.07494;21.3738881
-ul. Papieża Jana Pawła II;Lubawa;53.5012;19.7469138
-ul. Papieża Jana Pawła II;Mikołajki;53.800422;21.5778585
+name,location,longitude,latitude
+ul. Jana Pawła II,Bartoszyce,54.2471753,20.8180234
+Park Jana Pawła II,Działdowo,53.699016,19.9573691496831
+ul. Jana Pawła II,Pasłęk,54.062019225,19.6675228240107
+pl. Jana Pawła II,Ełk,53.81794,22.3559233
+ul. Jana Pawła II,Ełk,53.8017,22.3576082
+ul. Jana Pawła II,Nowa Wieś Ełcka,53.7679697,22.3228185374539
+Bulwar im. Jana Pawła II,Iława,53.595505,19.5625408
+Plac im. Jana Pawła II,Zalewo,53.845961,19.6064182
+rondo Jana Pawła II,Kętrzyn,54.0765906,21.375239
+ul. Jana Pawła II,Orneta,54.111549175,20.1269100577586
+skwer Jana Pawła II,Mrągowo,53.870362,21.304619
+pl. Jana Pawła II,Dobre Miasto,53.98666,20.3972561
+ul. Jana Pawła II,Dobre Miasto,53.987,20.3959489
+ul. Jana Pawła II,Dywity,53.83424655,20.484120777076
+ul. Jana Pawła II,Olsztynek,53.584585875,20.2938772783449
+ul. Jana Pawła II,Ostróda,53.69938,19.9578749
+Pl. Jana Pawła II,Morąg,53.91194,19.9276048
+ul. Jana Pawła II,Pasym,53.63812755,20.7768422967942
+ul. Plac Jana Pawła II,Rozogi,53.482084575,21.3626764089395
+ul. Jana Pawła II,Węgorzewo,54.20230185,21.7517041774823
+ul. Aleja Jana Pawła II,Elbląg,54.18846545,19.4045463861106
+Plac Jana Pawła II,Olsztyn,53.77840845,20.479082659162
+ul. Aleja Jana Pawła II,Iława,53.5934933,19.5837354
+ul. Jana Pawła II,Jamielnik,53.5196979,19.507928
+Rondo im. św. Jana Pawła II,Giżycko,54.03616,21.767196
+Skwer im. św. Jana Pawła II,Kętrzyn,54.07494,21.3738881
+ul. Papieża Jana Pawła II,Lubawa,53.5012,19.7469138
+ul. Papieża Jana Pawła II,Mikołajki,53.800422,21.5778585

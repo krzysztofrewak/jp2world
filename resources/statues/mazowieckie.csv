@@ -1,43 +1,43 @@
-name;location;longitude;latitude
-Pomnik Jana Pawła II;Warszawa;52.22965;21.08441
-Papież Jan Paweł II;Kobyłka;52.33985;21.19627
-Pomnik Jana Pawła II;Ząbki;52.28704;21.11186
-Pomnik Jana Pawła II;Radom;51.39737;21.15642
-Pomnik Jana Pawła II;Płock;52.54127;19.68918
-św. Jan Paweł II;Bielsk;52.67088;19.80484
-Pomnik ku czci Jana Pawła II;Gozdowo;52.72342;19.68577
-Pomnik Jana Pawła II;Ożarów Mazowiecki;52.20977;20.79872
-Pomnik Jana Pawła II;Legionowo;52.3927;20.92693
-Papież Jan Paweł II;Legionowo;52.41289;20.92549
-Pomnik Jana Pawła II;Wieliszew;52.45106;20.96957
-Pomnik Jana Pawła II;Ostrołęka;53.07313;21.58981
-Pomnik Jana Pawła II;Konstancin-Jeziorna;52.08463;21.11675
-Pomnik Jana Pawła II;Otwock;52.10333;21.2477
-Pomnik Jana Pawła II;Kołbiel;52.06181;21.4799
-Pomnik Jana Pawła II;Budy Barcząckie;52.16136;21.61788
-pomnik Jana Pawła II;Żyrardów;52.05708;20.44
-Św. Jan Paweł II;Wołomin;52.34513;21.24556
-Pomnik Jana Pawła II;Kobyłka;52.33749;21.20888
-Pomnik Jana Pawła II;Wołomin;52.3506;21.2307
-Jan Paweł II i Stefan Wyszyński;Sochaczew;52.22987;20.23692
-Pomnik Jana Pawła II;Kampinos;52.26849;20.46099
-Pamięci Jana Pawła II;Sochaczew;52.25394;20.27867
-Pomnik Jana Pawła II;Paprotnia;52.20343;20.42116
-Pomnik Jana Pawła II;Marki;52.32218;21.10504
-Pomnik Jana Pawła II;Błonie;52.19486;20.6173
-Pomnik Jana Pawła II;Mława;53.11192;20.3831
-Pomnik Jana Pawła II;Łomianki;52.3446;20.87495
-Pomnik Jana Pawła II;Nowe Budy;52.63943;21.66234
-Pomnik Jana Pawła II;Warszawa;52.19543;20.87441
-Pomnik Jana Pawła II;Ostrów Mazowiecka;52.80596;21.89394
-Pomnik Jana Pawła II;Pułtusk;52.70726;21.08813
-Pomnik Jana Pawła II;Jabłonna Lacka;52.47697;22.44106
-Pomnik Jana Pawła II;Sokołów Podlaski;52.40625;22.24421
-Papież Jan Paweł II;Gostynin;52.43033;19.46188
-Pomnik Jana Pawła II;Borkowo Kościelne;52.84386;19.71351
-Pomnik Jana Pawła II;Sierpc;52.85244;19.66499
-Pomnik Jana Pawła II;Wierzbno;52.30857;21.8598
-pomnik Jana Pawła II;Ruchna;52.37398;22.06104
-Pomnik Jana Pawła II;Błonie;52.19886;20.62064
-Pomnik Jana Pawła II;Skarżysko Kościelne;51.13432;20.91189
-Pomnik Jana Pawła II;Stara Błotnica;51.546269105656705;20.97551935516104
+name,location,longitude,latitude
+Pomnik Jana Pawła II,Warszawa,52.22965,21.08441
+Papież Jan Paweł II,Kobyłka,52.33985,21.19627
+Pomnik Jana Pawła II,Ząbki,52.28704,21.11186
+Pomnik Jana Pawła II,Radom,51.39737,21.15642
+Pomnik Jana Pawła II,Płock,52.54127,19.68918
+św. Jan Paweł II,Bielsk,52.67088,19.80484
+Pomnik ku czci Jana Pawła II,Gozdowo,52.72342,19.68577
+Pomnik Jana Pawła II,Ożarów Mazowiecki,52.20977,20.79872
+Pomnik Jana Pawła II,Legionowo,52.3927,20.92693
+Papież Jan Paweł II,Legionowo,52.41289,20.92549
+Pomnik Jana Pawła II,Wieliszew,52.45106,20.96957
+Pomnik Jana Pawła II,Ostrołęka,53.07313,21.58981
+Pomnik Jana Pawła II,Konstancin-Jeziorna,52.08463,21.11675
+Pomnik Jana Pawła II,Otwock,52.10333,21.2477
+Pomnik Jana Pawła II,Kołbiel,52.06181,21.4799
+Pomnik Jana Pawła II,Budy Barcząckie,52.16136,21.61788
+pomnik Jana Pawła II,Żyrardów,52.05708,20.44
+Św. Jan Paweł II,Wołomin,52.34513,21.24556
+Pomnik Jana Pawła II,Kobyłka,52.33749,21.20888
+Pomnik Jana Pawła II,Wołomin,52.3506,21.2307
+Jan Paweł II i Stefan Wyszyński,Sochaczew,52.22987,20.23692
+Pomnik Jana Pawła II,Kampinos,52.26849,20.46099
+Pamięci Jana Pawła II,Sochaczew,52.25394,20.27867
+Pomnik Jana Pawła II,Paprotnia,52.20343,20.42116
+Pomnik Jana Pawła II,Marki,52.32218,21.10504
+Pomnik Jana Pawła II,Błonie,52.19486,20.6173
+Pomnik Jana Pawła II,Mława,53.11192,20.3831
+Pomnik Jana Pawła II,Łomianki,52.3446,20.87495
+Pomnik Jana Pawła II,Nowe Budy,52.63943,21.66234
+Pomnik Jana Pawła II,Warszawa,52.19543,20.87441
+Pomnik Jana Pawła II,Ostrów Mazowiecka,52.80596,21.89394
+Pomnik Jana Pawła II,Pułtusk,52.70726,21.08813
+Pomnik Jana Pawła II,Jabłonna Lacka,52.47697,22.44106
+Pomnik Jana Pawła II,Sokołów Podlaski,52.40625,22.24421
+Papież Jan Paweł II,Gostynin,52.43033,19.46188
+Pomnik Jana Pawła II,Borkowo Kościelne,52.84386,19.71351
+Pomnik Jana Pawła II,Sierpc,52.85244,19.66499
+Pomnik Jana Pawła II,Wierzbno,52.30857,21.8598
+pomnik Jana Pawła II,Ruchna,52.37398,22.06104
+Pomnik Jana Pawła II,Błonie,52.19886,20.62064
+Pomnik Jana Pawła II,Skarżysko Kościelne,51.13432,20.91189
+Pomnik Jana Pawła II,Stara Błotnica,51.546269105656705,20.97551935516104
