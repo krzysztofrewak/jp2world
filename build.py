@@ -10,7 +10,7 @@ for category in categories:
     for file in categories[category]:
         with open(file, encoding='utf-8') as f:
             i = 0
-            for line in csv.reader(f, delimiter=";"):
+            for line in csv.reader(f, delimiter=","):
                 if i == 0:
                     i += 1
                     continue

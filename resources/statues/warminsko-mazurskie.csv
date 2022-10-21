@@ -1,18 +1,18 @@
-name;location;longitude;latitude
-Pomnik pontyfikatu Jana Pawła II;Węgorzewo;54.2128014103288;21.74277663252724
-Pomnik papieża Jana Pawła II;Mikołajki;53.80098498415599;21.576164062617515
-Pomnik Jana Pawła II;Olsztyn;53.77477;20.50579
-Pomnik Jana Pawła II;Elbląg;54.15854;19.39536
-Pomnik Papieża Jana Pawła II;Ełk;53.8184;22.35618
-Pomnik Jana Pawła II;Ostróda;53.69974;19.96065
-Pomnik Papieża Jana Pawła II;Ryn;53.93695;21.54923
-Pomnik Jana Pawła II i kard. Stefana Wyszyńskiego;Święta Lipka;54.02501;21.21738
-Pomnik Jana Pawła II;Sątoczno;54.23257;21.09986
-Pomnik Jana Pawła II;Mrągowo;53.87043;21.30479
-Pomnik ku czci Jana Pawła II;Działdowo;53.23578;20.18084
-Pomnik Jana Pawła II;Lidzbark Warmiński;54.12102;20.55989
-Pomnik Jana Pawła II;Morąg;53.91171;19.92795
-Pomnik Jana Pawła II;Chojnik;53.96442;19.79851
-Błogosławionego Jana Pawła II;Pasłęk;54.06123;19.66913
-Pomnik Jana Pawła II;Hartowiec;53.39757;19.84033
-Wielkiego Polaka Jana Pawła II;Biskupiec;53.86472;20.95462
+name,location,longitude,latitude
+Pomnik pontyfikatu Jana Pawła II,Węgorzewo,54.2128014103288,21.74277663252724
+Pomnik papieża Jana Pawła II,Mikołajki,53.80098498415599,21.576164062617515
+Pomnik Jana Pawła II,Olsztyn,53.77477,20.50579
+Pomnik Jana Pawła II,Elbląg,54.15854,19.39536
+Pomnik Papieża Jana Pawła II,Ełk,53.8184,22.35618
+Pomnik Jana Pawła II,Ostróda,53.69974,19.96065
+Pomnik Papieża Jana Pawła II,Ryn,53.93695,21.54923
+Pomnik Jana Pawła II i kard. Stefana Wyszyńskiego,Święta Lipka,54.02501,21.21738
+Pomnik Jana Pawła II,Sątoczno,54.23257,21.09986
+Pomnik Jana Pawła II,Mrągowo,53.87043,21.30479
+Pomnik ku czci Jana Pawła II,Działdowo,53.23578,20.18084
+Pomnik Jana Pawła II,Lidzbark Warmiński,54.12102,20.55989
+Pomnik Jana Pawła II,Morąg,53.91171,19.92795
+Pomnik Jana Pawła II,Chojnik,53.96442,19.79851
+Błogosławionego Jana Pawła II,Pasłęk,54.06123,19.66913
+Pomnik Jana Pawła II,Hartowiec,53.39757,19.84033
+Wielkiego Polaka Jana Pawła II,Biskupiec,53.86472,20.95462

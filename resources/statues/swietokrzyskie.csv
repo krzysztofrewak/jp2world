@@ -1,13 +1,13 @@
-name;location;longitude;latitude
-Pomnik Jana Pawła II;Kielce;50.86834;20.62872
-Pomnik Jana Pawła II;Kielce;50.87449;20.61176
-Pomnik - Jana Pawła II;Kielce;50.88931;20.64269
-Pomnik Jana Pawła II;Kamionki;50.99439;20.8123
-Pomnik Jana Pawła II;Ostrowiec Świętokrzyski;50.93858;21.38773
-Pomnik Jana Pawła II;Nietulisko Duże;50.98015;21.24933
-Pomnik Jana Pawła II;Godów;50.96404;21.17297
-Pomnik Jana Pawła II;Skarżysko Kościelne;51.13432;20.91189
-Pomnik Jana Pawła II;Sandomierz;50.67746;21.75258
-Pomnik Jana Pawła II;Oleśnica;50.45006;21.06503
-Pomnik Jana Pawła II;Czarnocin;50.3415;20.51853
-Pomnik Jana Pawła II;Lasocin;50.89552537486092;21.75674378871918
+name,location,longitude,latitude
+Pomnik Jana Pawła II,Kielce,50.86834,20.62872
+Pomnik Jana Pawła II,Kielce,50.87449,20.61176
+Pomnik - Jana Pawła II,Kielce,50.88931,20.64269
+Pomnik Jana Pawła II,Kamionki,50.99439,20.8123
+Pomnik Jana Pawła II,Ostrowiec Świętokrzyski,50.93858,21.38773
+Pomnik Jana Pawła II,Nietulisko Duże,50.98015,21.24933
+Pomnik Jana Pawła II,Godów,50.96404,21.17297
+Pomnik Jana Pawła II,Skarżysko Kościelne,51.13432,20.91189
+Pomnik Jana Pawła II,Sandomierz,50.67746,21.75258
+Pomnik Jana Pawła II,Oleśnica,50.45006,21.06503
+Pomnik Jana Pawła II,Czarnocin,50.3415,20.51853
+Pomnik Jana Pawła II,Lasocin,50.89552537486092,21.75674378871918

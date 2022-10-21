@@ -2,6 +2,7 @@
   <head>
     <title>It's a JP2 world</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js" integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s=" crossorigin=""></script>
@@ -61,6 +62,24 @@
                   </div>
                 </div>
               </li>
+              <div class="relative">
+                <div class="absolute inset-0 flex items-center" aria-hidden="true">
+                  <div class="w-full border-t border-gray-300"></div>
+                </div>
+                <div class="relative flex justify-center">
+                  <span class="bg-white px-2 text-sm text-gray-500"></span>
+                </div>
+              </div>
+              <a class="col-span-1 flex rounded-md shadow-sm" href="https://github.com/krzysztofrewak/jp2world" target="_blank">
+                <div class="flex-shrink-0 flex items-center justify-center w-16 bg-black text-white text-sm font-medium rounded-l-md">
+                  &raquo;
+                </div>
+                <div class="flex flex-1 items-center justify-between truncate rounded-r-md border-t border-r border-b border-gray-200 bg-white">
+                  <div class="flex-1 truncate px-4 py-2 text-sm">
+                    <span class="font-medium text-gray-900 hover:text-gray-600">repozytorium na Githubie</span>
+                  </div>
+                </div>
+              </a>
             </ul>
           </div>
         </div>
@@ -150,6 +169,6 @@
       },
     })
 
-    const map = L.map('map').setView([52.088611, 19.407222], 7)
+    const map = L.map('map').setView([52.088611, 19.407222], window.innerWidth > 1200 ? 7 : 5)
   </script>
 </html>

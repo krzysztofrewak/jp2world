@@ -1,45 +1,50 @@
-name;location;longitude;latitude
-Dulce Nombre de Maria Cathedral Basilica John Paul II rotating statue;Agana, Guam;13.474366060183453;144.7526096301157
-Statue du Pape Jean-Paul II;Ploërmel, Francja;47.93029304689934;-2.393919871203141
-Pope John Paul II;Brezje, Słowenia;46.32857635461016;14.231683299952158
-A statue of Pope John Paul II;Stockbridge, MA;42.288833;-73.3113
-Statue of Pope John Paul II the in the sanctuary of Fatima;Fátima, Portugal;39.629717;-8.6745
-Pope John Paul II;Baltimore, MD;39.294783;-76.615717
-A statue to Pope John Paul II;Malta;36.0439;14.239
-Pope John Paul II of St. Therese Catholic Cemetery;Collinsville, OK;36.37555;-95.847333
-The Statue of Pope John Paul II of the Termini train station;Roma, Italy;41.902017;12.498967
-Bronze statue of Pope John Paul II in front of Almudena Cathedral in Madrid;Madrid, Spain;40.415317;-3.713967
-Sydney Cathedral Statue to Pope John Paul II;Australia;-33.87197;151.2132
-Memorial plaque for Pope John Paul II at the Gate of Dawn in Vilnius, Lithuania;Vilnius, Lithuania;54.674433;25.289567
-Notre Dame statue du Pape Jean Paul II;Paris,France;48.8525;2.3496
-Statue of Pope John Paul II;Sarajevo, Bosnia and Herzegovina;43.85918;18.42556
-Bronze statue to Pope John Paul II;Phoenix, AZ;33.450519;-112.068948
-Quote by Pope John Paul II near on a plaque by Berlin Wall Segment in Fatima;Fátima, Portugal;39.630167;-8.673017
-This bust of Pope John Paul II inside St. Patrick's Cathedral;New York City, NY;40.758767;-73.976683
-Statue of the Pope John Paul II in the Plaza de la Inmaculada;Santiago de Compostela, ES;42.881283;-8.544417
-Pape Jean Paul II in cathédrale de Saint-Jérôme;Jérôme, Québec;45.77781;-74.00248
-Bust of Pope John Paul II in Cimiez Monestary;Nice, France;43.72022;7.27842
-Notre-Dame de Czestochowa cette statue du Pape Jean Paul II;Montréal, Québec;45.536233;-73.558383
-Statute of Pope John Paul II;Hamtramck, Mi. US;42.398217;-83.059217
-Life-size statue of Pope John Paul II;Denver, CO;39.7401;-104.9822
-Pope John Paul II outside Our Lady of Mount Carmel Catholic Church;Wyandotte, MI;42.20595;-83.164817
-Pope John Paul II statue in Joseph Campau;Hamtramck, Michigan;42.39823;-83.05917
-John Paul II;Braga, Portugal;41.541683;-8.372833
-Bronze statue of Pope John Paul II at St. Eugene de Mazenod Parish Church;Brampton, Ontario, Canada;43.643917;-79.758867
-Pope Saint John Paul II;Angra, Terceira, Açores, Portugal;38.655333;-27.220633
-Statue of Pope John Paul II near St. Mary's Cathedral;Sydney, New South Wales, Australia;-33.87138;151.21313
-Pope John Paul II;Olomouc, Czech Republic;49.629161;17.337819
-Quote of Pope John Paul II;Columbia, South Carolina;33.9979;-81.028417
-St. John Paul II at the Cathedral Basilica of San Fernando de Bexar;San Antonio, TX;29.42488;-98.4943
-Pomnik Jana Pawła II;Mościska, Ukraina;49.79300810614266;23.15174128556293
-Pomnik Jana Pawła II;Kamieniec Podolski, Ukraina;48.67706686956298;26.571117374153257
-Pomnik Jana Pawła II;Wiedeń, Austria;48.197747629453254;16.378852111646733
-Monumento al Papa Juan Pablo II;San Cristóbal de La Laguna;28.490306;-16.320625
-Monumento al Papa Juan Pablo II;Ciudad de México;19.434306;-99.133611
-Pamätník Jána Pavla II v Košiciach;Koszyce, Słowacja;48.679028;21.26825
-Saint John Paul II;Parramatta, Australia;-33.808918;151.003489
-Католическая Церковь;Astana, Kazachstan;51.15409756941419;71.45215684950078
-Die Skulptur von Pabst Johannes Paul II;Hannover, Niemcy;52.4043;9.8189
-Eine Skulptur des Heiligen Johannes Paul II in der Pfarr und Wallfahrtskirche;Maria Lankowitz, Austria;47.064163;15.062286
-Jean Paul II Tasitolu;Dili, Timor Wschodni;-8.557389009693267;125.49720147358659
-Pope John Paul II Statue in Memorial Park;Manila, Filipiny;14.47404875600919;120.9835750981926
+name,location,longitude,latitude
+Dulce Nombre de Maria Cathedral Basilica John Paul II rotating statue,"Agana, Guam",13.474366060183453,144.7526096301157
+Statue du Pape Jean-Paul II,"Ploërmel, Francja",47.93029304689934,-2.393919871203141
+Pope John Paul II,"Brezje, Słowenia",46.32857635461016,14.231683299952158
+A statue of Pope John Paul II,"Stockbridge, MA",42.288833,-73.3113
+Statue of Pope John Paul II the in the sanctuary of Fatima,"Fátima, Portugal",39.629717,-8.6745
+Pope John Paul II,"Baltimore, MD",39.294783,-76.615717
+A statue to Pope John Paul II,Malta,36.0439,14.239
+Pope John Paul II of St. Therese Catholic Cemetery,"Collinsville, OK",36.37555,-95.847333
+The Statue of Pope John Paul II of the Termini train station,"Roma, Italy",41.902017,12.498967
+Bronze statue of Pope John Paul II in front of Almudena Cathedral in Madrid,"Madrid, Spain",40.415317,-3.713967
+Sydney Cathedral Statue to Pope John Paul II,Australia,-33.87197,151.2132
+"Memorial plaque for Pope John Paul II at the Gate of Dawn in Vilnius, Lithuania","Vilnius, Lithuania",54.674433,25.289567
+Notre Dame statue du Pape Jean Paul II,"Paris,France",48.8525,2.3496
+Statue of Pope John Paul II,"Sarajevo, Bosnia and Herzegovina",43.85918,18.42556
+Bronze statue to Pope John Paul II,"Phoenix, AZ",33.450519,-112.068948
+Quote by Pope John Paul II near on a plaque by Berlin Wall Segment in Fatima,"Fátima, Portugal",39.630167,-8.673017
+This bust of Pope John Paul II inside St. Patrick's Cathedral,"New York City, NY",40.758767,-73.976683
+Statue of the Pope John Paul II in the Plaza de la Inmaculada,"Santiago de Compostela, ES",42.881283,-8.544417
+Pape Jean Paul II in cathédrale de Saint-Jérôme,"Jérôme, Québec",45.77781,-74.00248
+Bust of Pope John Paul II in Cimiez Monestary,"Nice, France",43.72022,7.27842
+Notre-Dame de Czestochowa cette statue du Pape Jean Paul II,"Montréal, Québec",45.536233,-73.558383
+Statute of Pope John Paul II,"Hamtramck, Mi. US",42.398217,-83.059217
+Life-size statue of Pope John Paul II,"Denver, CO",39.7401,-104.9822
+Pope John Paul II outside Our Lady of Mount Carmel Catholic Church,"Wyandotte, MI",42.20595,-83.164817
+Pope John Paul II statue in Joseph Campau,"Hamtramck, Michigan",42.39823,-83.05917
+John Paul II,"Braga, Portugal",41.541683,-8.372833
+Bronze statue of Pope John Paul II at St. Eugene de Mazenod Parish Church,"Brampton, Ontario, Canada",43.643917,-79.758867
+Pope Saint John Paul II,"Angra, Terceira, Açores, Portugal",38.655333,-27.220633
+Statue of Pope John Paul II near St. Mary's Cathedral,"Sydney, New South Wales, Australia",-33.87138,151.21313
+Pope John Paul II,"Olomouc, Czech Republic",49.629161,17.337819
+Quote of Pope John Paul II,"Columbia, South Carolina",33.9979,-81.028417
+St. John Paul II at the Cathedral Basilica of San Fernando de Bexar,"San Antonio, TX",29.42488,-98.4943
+Pomnik Jana Pawła II,"Mościska, Ukraina",49.79300810614266,23.15174128556293
+Pomnik Jana Pawła II,"Kamieniec Podolski, Ukraina",48.67706686956298,26.571117374153257
+Pomnik Jana Pawła II,"Wiedeń, Austria",48.197747629453254,16.378852111646733
+Monumento al Papa Juan Pablo II,San Cristóbal de La Laguna,28.490306,-16.320625
+Monumento al Papa Juan Pablo II,Ciudad de México,19.434306,-99.133611
+Pamätník Jána Pavla II v Košiciach,"Koszyce, Słowacja",48.679028,21.26825
+Saint John Paul II,"Parramatta, Australia",-33.808918,151.003489
+Католическая Церковь,"Astana, Kazachstan",51.15409756941419,71.45215684950078
+Die Skulptur von Pabst Johannes Paul II,"Hannover, Niemcy",52.4043,9.8189
+Eine Skulptur des Heiligen Johannes Paul II in der Pfarr und Wallfahrtskirche,"Maria Lankowitz, Austria",47.064163,15.062286
+Jean Paul II Tasitolu,"Dili, Timor Wschodni",-8.557389009693267,125.49720147358659
+Pope John Paul II Statue in Memorial Park,"Manila, Filipiny",14.47404875600919,120.9835750981926
+Pomnik Jana Pawła II,"Tobolsk, Rosja",58.19668184018522,68.25314909110281
+Juan Pablo II,"Izamal, Meksyk",20.932487991477885,-89.01819255600932
+Juan Pablo II,"Izamal, Meksyk",20.932487991477885,-89.01819255600932
+II. János Pál pápa,"Szentendre, Węgry",47.666997728841764,19.075628809627926
+Giovanni Paolo II in Basilica dei Santi Cosma e Damiano,"Alberobello, Włochy",40.78657499796577,17.23576631559218

@@ -1,18 +1,18 @@
-name;location;longitude;latitude
-Collegium Catholicum Bydgostiense - Zespół Szkół Katolickich Pomnik Jana Pawła II;Bydgoszcz;53.11798;17.99613
-Pomnik Jana Pawła II;Żołędowo;53.21799;18.05741
-Pomnik Jana Pawła II;Toruń;53.01167;18.59917
-Pomnik papieża Jana Pawła II;Toruń;53.01927;18.51242
-Pomnik im. Jana Pawła II;Służewo;52.85517;18.64252
-pomnik Jana Pawła II;Lubanie;52.74859;18.9203
-Pomnik patrona szkoły Jana Pawła II;Boguszewo;53.42345;19.00715
-Tablica - Jan Paweł II;Inowrocław;52.79722;18.25359
-Pomnik Jana Pawła II;Strzelno;52.62997;18.17845
-Pomnik Jana Pawła II;Brodnica;53.25313;19.4002
-Pomnik Jana Pawła II;Siemkowo;53.48446;18.22256
-Pomnik Jana Pawła II;Skępe;52.86659;19.33183
-Pomnik Jana Pawła II;Słupy;52.96449;17.66806
-Pomnik Jana Pawła II;Ostrowąs;52.82897;18.69868
-Pomik - obelisk ku czci Jana Pawła II;Raciążek;52.85729;18.81156
-Pomnik Jana Pawła II;Ciechocinek;52.87957;18.79737
-Pomnik św. Jana Pawła II;Kowalewo Pomorskie;53.15507135623818;18.89780402183533
+name,location,longitude,latitude
+Collegium Catholicum Bydgostiense - Zespół Szkół Katolickich Pomnik Jana Pawła II,Bydgoszcz,53.11798,17.99613
+Pomnik Jana Pawła II,Żołędowo,53.21799,18.05741
+Pomnik Jana Pawła II,Toruń,53.01167,18.59917
+Pomnik papieża Jana Pawła II,Toruń,53.01927,18.51242
+Pomnik im. Jana Pawła II,Służewo,52.85517,18.64252
+pomnik Jana Pawła II,Lubanie,52.74859,18.9203
+Pomnik patrona szkoły Jana Pawła II,Boguszewo,53.42345,19.00715
+Tablica - Jan Paweł II,Inowrocław,52.79722,18.25359
+Pomnik Jana Pawła II,Strzelno,52.62997,18.17845
+Pomnik Jana Pawła II,Brodnica,53.25313,19.4002
+Pomnik Jana Pawła II,Siemkowo,53.48446,18.22256
+Pomnik Jana Pawła II,Skępe,52.86659,19.33183
+Pomnik Jana Pawła II,Słupy,52.96449,17.66806
+Pomnik Jana Pawła II,Ostrowąs,52.82897,18.69868
+Pomik - obelisk ku czci Jana Pawła II,Raciążek,52.85729,18.81156
+Pomnik Jana Pawła II,Ciechocinek,52.87957,18.79737
+Pomnik św. Jana Pawła II,Kowalewo Pomorskie,53.15507135623818,18.89780402183533

@@ -1,48 +1,48 @@
-name;location;longitude;latitude
-ul. Plac Jana Pawła II;Karlino;54.0332381;15.876647114566
-Plac Jana Pawła II;Drawsko Pomorskie;53.5311817;15.8107909
-ul. Jana Pawła II;Złocieniec;53.53533885;16.0223113161408
-ul. Jana Pawła II;Goleniów;53.568338825;14.8251228865376
-ul. Jana Pawła II;Kliniska Wielkie;53.45836495;14.7721113481176
-ul. Jana Pawła II;Nowogard;53.661058;15.1328387767771
-ul. Jana Pawła II;Trzebiatów;54.063838675;15.2661441635986
-ul. Jana Pawła II;Gryfino;53.2513133;14.5051635
-ul. Jana Pawła II;Mieszkowice;52.78579895;14.49413965
-ul. Papieża Jana Pawła II;Golczewo;53.8246823;14.98152245
-ul. Jana Pawła II;Międzyzdroje;53.9322368;14.4500825
-ul. Aleja św. Jana Pawła II;Kołobrzeg;54.178042925;15.5785446778607
-ul. Jana Pawła II;Polanów;54.12056655;16.6859323020507
-ul. Jana Pawła II;Dębno;52.7362316;14.69829135
-ul. Jana Pawła II;Cychry;52.691632775;14.7067124800295
-ul. Rynek im. Jana Pawła II;Myślibórz;52.92461815;14.8657762077725
-ul. Jana Pawła II;Bielice;53.20066285;14.728558371143
-ul. Jana Pawła II;Pyrzyce;53.14864185;14.8943845436679
-ul. Aleja Jana Pawła II;Darłowo;54.4409647;16.4066446
-ul. Jana Pawła II;Warszkowo;54.3660713;16.709348
-ul. Jana Pawła II;Morzyczyn;53.3548769;14.9197528
-ul. Papieża Jana Pawła II;Witkowo Pierwsze;53.285150425;15.0724505736887
-szosa Jana Pawła II;Barwice;53.74251;16.35093
-ul. Plac Jana Pawła II;Świdwin;53.7755597;15.773749755426
-ul. Jana Pawła II;Połczyn-Zdrój;53.769744625;16.0983702296733
-Park im. Świętego Jana Pawła II;Dobra;53.58149779099048;15.315867243391615
-ul. Jana Pawła II;Koszalin;54.2046019;16.1921214390672
-al. Papieża Jana Pawła II;Szczecin;53.43370035;14.54762075
-ul. Jana Pawła II;Świnoujście;53.9043609;14.2821182
-Skwer Jana Pawła II;Police;53.5437172;14.5539583
-skwer im. Jana Pawła II;Mirosławiec;53.3416493;16.093292
-pl. im. Jana Pawła II;Węgorzyno;53.5380357;15.5577897
-pl. Jasne Błonia im. Jana Pawła II;Szczecin;53.43954446360933;14.540920214501972
-ul. Papieża Jana Pawła II;Ińsko;53.43742945;15.5469259886555
-Plac Papieża Jana Pawła II;Wałcz;53.2620919;16.4580832
-Plac Jana Pawła II;Choszczno;53.1679642;15.4187755
-ul. Jana Pawła II;Chojna;52.9630545;14.4296603
-ul. Jana Pawła II;Chociwel;53.4702749;15.3401154
-ul. Jana Pawła II;Dobrzany;53.3607218;15.4286405
-ul. Jana Pawła II;Szczecinek;53.7109;16.6926549
-ul. Jana Pawła II;Biały Bór;53.9018826;16.8364571
-Plac Jana Pawła II;Biały Bór;53.9007166;16.8361634
-ul. Świętego Jana Pawła II;Wolin;53.8430157;14.6156487
-Plac Św. Jana Pawła II;Wołczkowo;53.4755211;14.4435452
-Skwer Świętego Jana Pawła II;Nowe Warpno;53.72595;14.2785587
-skwer im. Św. Jana Pawła II;Lipiany;53.00262;14.9687988
-skwer Ojca Świętego Jana Pawła II;Stargard;53.33872;15.038635
+name,location,longitude,latitude
+ul. Plac Jana Pawła II,Karlino,54.0332381,15.876647114566
+Plac Jana Pawła II,Drawsko Pomorskie,53.5311817,15.8107909
+ul. Jana Pawła II,Złocieniec,53.53533885,16.0223113161408
+ul. Jana Pawła II,Goleniów,53.568338825,14.8251228865376
+ul. Jana Pawła II,Kliniska Wielkie,53.45836495,14.7721113481176
+ul. Jana Pawła II,Nowogard,53.661058,15.1328387767771
+ul. Jana Pawła II,Trzebiatów,54.063838675,15.2661441635986
+ul. Jana Pawła II,Gryfino,53.2513133,14.5051635
+ul. Jana Pawła II,Mieszkowice,52.78579895,14.49413965
+ul. Papieża Jana Pawła II,Golczewo,53.8246823,14.98152245
+ul. Jana Pawła II,Międzyzdroje,53.9322368,14.4500825
+ul. Aleja św. Jana Pawła II,Kołobrzeg,54.178042925,15.5785446778607
+ul. Jana Pawła II,Polanów,54.12056655,16.6859323020507
+ul. Jana Pawła II,Dębno,52.7362316,14.69829135
+ul. Jana Pawła II,Cychry,52.691632775,14.7067124800295
+ul. Rynek im. Jana Pawła II,Myślibórz,52.92461815,14.8657762077725
+ul. Jana Pawła II,Bielice,53.20066285,14.728558371143
+ul. Jana Pawła II,Pyrzyce,53.14864185,14.8943845436679
+ul. Aleja Jana Pawła II,Darłowo,54.4409647,16.4066446
+ul. Jana Pawła II,Warszkowo,54.3660713,16.709348
+ul. Jana Pawła II,Morzyczyn,53.3548769,14.9197528
+ul. Papieża Jana Pawła II,Witkowo Pierwsze,53.285150425,15.0724505736887
+szosa Jana Pawła II,Barwice,53.74251,16.35093
+ul. Plac Jana Pawła II,Świdwin,53.7755597,15.773749755426
+ul. Jana Pawła II,Połczyn-Zdrój,53.769744625,16.0983702296733
+Park im. Świętego Jana Pawła II,Dobra,53.58149779099048,15.315867243391615
+ul. Jana Pawła II,Koszalin,54.2046019,16.1921214390672
+al. Papieża Jana Pawła II,Szczecin,53.43370035,14.54762075
+ul. Jana Pawła II,Świnoujście,53.9043609,14.2821182
+Skwer Jana Pawła II,Police,53.5437172,14.5539583
+skwer im. Jana Pawła II,Mirosławiec,53.3416493,16.093292
+pl. im. Jana Pawła II,Węgorzyno,53.5380357,15.5577897
+pl. Jasne Błonia im. Jana Pawła II,Szczecin,53.43954446360933,14.540920214501972
+ul. Papieża Jana Pawła II,Ińsko,53.43742945,15.5469259886555
+Plac Papieża Jana Pawła II,Wałcz,53.2620919,16.4580832
+Plac Jana Pawła II,Choszczno,53.1679642,15.4187755
+ul. Jana Pawła II,Chojna,52.9630545,14.4296603
+ul. Jana Pawła II,Chociwel,53.4702749,15.3401154
+ul. Jana Pawła II,Dobrzany,53.3607218,15.4286405
+ul. Jana Pawła II,Szczecinek,53.7109,16.6926549
+ul. Jana Pawła II,Biały Bór,53.9018826,16.8364571
+Plac Jana Pawła II,Biały Bór,53.9007166,16.8361634
+ul. Świętego Jana Pawła II,Wolin,53.8430157,14.6156487
+Plac Św. Jana Pawła II,Wołczkowo,53.4755211,14.4435452
+Skwer Świętego Jana Pawła II,Nowe Warpno,53.72595,14.2785587
+skwer im. Św. Jana Pawła II,Lipiany,53.00262,14.9687988
+skwer Ojca Świętego Jana Pawła II,Stargard,53.33872,15.038635

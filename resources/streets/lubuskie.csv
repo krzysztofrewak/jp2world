@@ -1,36 +1,36 @@
-name;location;longitude;latitude
-ul. Jana Pawła II;Kostrzyn nad Odrą;52.59687995;14.64411675
-pl. Promenada Jana Pawła II;Santok;52.73638405561317;15.404674675286168
-ul. Droga Jana Pawła II;Witnica;52.6750556;14.8795677616854
-Bulwar św. Jana Pawła II;Krosno Odrzańskie;52.0482541;15.1020475
-ul. Jana Pawła II;Osiecznica;52.07129545;15.0491412017163
-Bulwar Jana Pawła II;Międzyrzecz;52.4443738;15.5741901
-ul. Jana Pawła II;Skwierzyna;52.5955767;15.5124512802885
-pl. Papieża Jana Pawła II Wielkiego;Bytom Odrzański;51.72972;15.8278073
-ul. Jana Pawła II;Otyń;51.8488605;15.7033547
-rondo Papieża Jana Pawła II;Rzepin;52.3464148;14.8321011
-ul. Jana Pawła II;Lubniewice;52.5124263;15.2448585
-ul. Jana Pawła II;Słońsk;52.5705504;14.8188689
-ul. Jana Pawła II;Sulęcin;52.438394825;15.120951924018
-ul. Jana Pawła II;Zbąszynek;52.23989545;15.81139065
-ul. Jana Pawła II;Sulechów;52.0882566;15.6265462659851
-ul. Jana Pawła II;Żagań;51.617695125;15.3204882778185
-Skwer św. Jana Pawła II;Iłowa;51.49791983783009;15.194274419698575
-ul. Jana Pawła II;Małomice;51.55315425;15.4473546087914
-ul. Jana Pawła II;Szprotawa;51.55296635;15.5353851182067
-Skwer Jana Pawła II;Szprotawa;51.5655851;15.5371983
-ul. Jana Pawła II;Jasień;51.751705;15.0129512163546
-Plac Jana Pawła II;Lubsko;51.78576095;14.9730616089808
-Rondo Jana Pawła II;Trzebiel;51.6330463;14.8154885
-ul. św. Jana Pawła II;Szlichtyngowa;51.70985727587396;16.241985098646925
-ul. Plac Jana Pawła II;Gorzów Wielkopolski;52.7618018;15.2548081
-ul. Promenada Jana Pawła II;Santok;52.7369357013432;15.406718725052423
-Plac im. św. Jana Pawła II;Gubin;51.9521;14.725447
-rondo św. Jana Pawła II;Zielona Góra;51.9329432;15.483376
-ul. Jana Pawła II;Nowa Sól;51.80307451449844;15.691687093000313
-al. Jana Pawła II;Żary;51.640009775;15.144819028597
-ul. Jana Pawła II;Nowe Miasteczko;51.6901668;15.7333304
-Plac Jana Pawła II;Świebodzin;52.250286225;15.5327037834651
-Rondo im. Jana Pawła II;Różanki;52.795164442208815;15.324279951075827
-Rondo Jana Pawła II;Ośno Lubuskie;52.4530965;14.8758785
-pl. im. Jana Pawła II;Słubice;52.35296;14.5652653
+name,location,longitude,latitude
+ul. Jana Pawła II,Kostrzyn nad Odrą,52.59687995,14.64411675
+pl. Promenada Jana Pawła II,Santok,52.73638405561317,15.404674675286168
+ul. Droga Jana Pawła II,Witnica,52.6750556,14.8795677616854
+Bulwar św. Jana Pawła II,Krosno Odrzańskie,52.0482541,15.1020475
+ul. Jana Pawła II,Osiecznica,52.07129545,15.0491412017163
+Bulwar Jana Pawła II,Międzyrzecz,52.4443738,15.5741901
+ul. Jana Pawła II,Skwierzyna,52.5955767,15.5124512802885
+pl. Papieża Jana Pawła II Wielkiego,Bytom Odrzański,51.72972,15.8278073
+ul. Jana Pawła II,Otyń,51.8488605,15.7033547
+rondo Papieża Jana Pawła II,Rzepin,52.3464148,14.8321011
+ul. Jana Pawła II,Lubniewice,52.5124263,15.2448585
+ul. Jana Pawła II,Słońsk,52.5705504,14.8188689
+ul. Jana Pawła II,Sulęcin,52.438394825,15.120951924018
+ul. Jana Pawła II,Zbąszynek,52.23989545,15.81139065
+ul. Jana Pawła II,Sulechów,52.0882566,15.6265462659851
+ul. Jana Pawła II,Żagań,51.617695125,15.3204882778185
+Skwer św. Jana Pawła II,Iłowa,51.49791983783009,15.194274419698575
+ul. Jana Pawła II,Małomice,51.55315425,15.4473546087914
+ul. Jana Pawła II,Szprotawa,51.55296635,15.5353851182067
+Skwer Jana Pawła II,Szprotawa,51.5655851,15.5371983
+ul. Jana Pawła II,Jasień,51.751705,15.0129512163546
+Plac Jana Pawła II,Lubsko,51.78576095,14.9730616089808
+Rondo Jana Pawła II,Trzebiel,51.6330463,14.8154885
+ul. św. Jana Pawła II,Szlichtyngowa,51.70985727587396,16.241985098646925
+ul. Plac Jana Pawła II,Gorzów Wielkopolski,52.7618018,15.2548081
+ul. Promenada Jana Pawła II,Santok,52.7369357013432,15.406718725052423
+Plac im. św. Jana Pawła II,Gubin,51.9521,14.725447
+rondo św. Jana Pawła II,Zielona Góra,51.9329432,15.483376
+ul. Jana Pawła II,Nowa Sól,51.80307451449844,15.691687093000313
+al. Jana Pawła II,Żary,51.640009775,15.144819028597
+ul. Jana Pawła II,Nowe Miasteczko,51.6901668,15.7333304
+Plac Jana Pawła II,Świebodzin,52.250286225,15.5327037834651
+Rondo im. Jana Pawła II,Różanki,52.795164442208815,15.324279951075827
+Rondo Jana Pawła II,Ośno Lubuskie,52.4530965,14.8758785
+pl. im. Jana Pawła II,Słubice,52.35296,14.5652653
