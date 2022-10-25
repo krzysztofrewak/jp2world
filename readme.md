@@ -36,7 +36,8 @@ Na chwilę obecną wyłuskałem dane różnego rodzaju skryptami z wielu różny
 Podstawowa baza z pewnością nie jest pełna (szczególnie jeżeli chodzi o pomniki), ale pozwolę sobie nie publikować skryptów scrappujących, żeby nikogo nie kusiło zbierać tych danych jeszcze raz. Szkoda na to czasu i serwerów.
 
 #### Milestony
-| data                     | razem | szkoły | ulice | pomniki | kościoły | inne | komentarz                     |
-|--------------------------|-------|--------|-------|---------|----------|------|-------------------------------|
-| **10 października 2022** | 3008  | 1379   | 1078  | 474     | 46       | 31   | początek zbierania danych     |
-| **15 października 2022** | 3587  | 1379   | 1443  | 484     | 47       | 234  | dodane NGO i zagrniczne ulice |
+| data                     | razem | szkoły | ulice | pomniki | kościoły | inne | komentarz                      |
+|--------------------------|-------|--------|-------|---------|----------|------|--------------------------------|
+| **10 października 2022** | 3008  | 1379   | 1078  | 474     | 46       | 31   | początek zbierania danych      |
+| **15 października 2022** | 3587  | 1379   | 1443  | 484     | 47       | 234  | dodane NGO i zagraniczne ulice |
+| **25 października 2022** | 3787  | 1380   | 1441  | 681     | 48       | 237  | dodane pomniki z OpenStreetMap |
