@@ -4,33 +4,52 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
 
 jobs:
   deploy:
     name: Build and deploy
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.10"
+          python-version: "3.13"
 
       - name: Test resources database
-        run: python3 test.py
+        run: python test.py
 
       - name: Install and build backend
-        run: python3 build.py
+        run: python build.py
 
       - name: Handle 404 for GitHub Pages
-        run: cp index.html 404.html
-        working-directory: public
+        run: cp public/index.html public/404.html
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.4
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
         with:
-          BRANCH: public
-          FOLDER: public
-          CLEAN: true
+          path: public
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5
