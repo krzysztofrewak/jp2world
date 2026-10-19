@@ -121,6 +121,11 @@
               background: this.getMarkerColor('church'),
             },
             {
+              name: 'relikwie',
+              counter: this.places.filter(p => p.type === 'relic').length,
+              background: this.getMarkerColor('relic'),
+            },
+            {
               name: 'inne',
               counter: this.places.filter(p => p.type === 'other').length,
               background: this.getMarkerColor('other'),
@@ -154,6 +159,7 @@
         getMarkerColor (type) {
           return {
             'church': '#D68FFE',
+            'relic': '#008577',
             'school': '#6DA7CE',
             'statue': '#32CD32',
             'street': '#FF5959',

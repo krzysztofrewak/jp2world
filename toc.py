@@ -59,6 +59,9 @@ categories = {
     "church": [
        "./resources/churches.csv",
     ],
+    "relic": [
+       "./resources/relics.csv",
+    ],
     "other": [
        "./resources/airports.csv",
        "./resources/hospitals.csv",
